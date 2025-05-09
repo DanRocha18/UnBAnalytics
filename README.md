@@ -1,4 +1,4 @@
-# Projeto: Sistema de IA para Orientação Acadêmica
+# Projeto: Sistema de IA para Orientação Acadêmica - UnBAnalytics
 
 ## 1. Visão Geral
 Sistema inteligente que analisa dados acadêmicos para fornecer:
@@ -17,6 +17,7 @@ Sistema inteligente que analisa dados acadêmicos para fornecer:
 - Oferecer plano de estudos personalizado
 
 ### 2.2 Dados Necessários
+
 | Categoria           | Exemplos                          |
 |----------------------|-----------------------------------|
 | Histórico Acadêmico  | Notas, reprovações, disciplinas   |
@@ -45,7 +46,7 @@ Sistema inteligente que analisa dados acadêmicos para fornecer:
 - **Backend**: Python 3.10+, FastAPI
 - **ML**: Scikit-learn, TensorFlow, PyTorch
 - **NLP**: Rasa, spaCy
-- **Banco de Dados**: PostgreSQL + MongoDB
+- **Banco de Dados**: PostgreSQL + MongoDB ou Planilha Excel
 - **Cloud**: AWS EC2 + S3
 
 ---
