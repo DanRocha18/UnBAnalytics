@@ -1,0 +1,131 @@
+Histórico Escolar - Emitido em: 16/07/2025 às 22:46
+DEG - Decanato de Ensino de Graduação
+SAA - Secretaria de Administração Acadêmica
+Dados Pessoais
+Dados do Vínculo do(a) Discente
+ENGENHARIA DE SOFTWARE/FCTE - BACHARELADO - DIURNO
+2026.2 / 2029.2
+-
+Curso:
+Currículo:
+Ano / Período Letivo Inicial:
+Forma de Ingresso:
+Prazo para Conclusão (Padrão / Máximo):
+Ano/Período de Integralização:
+6360/1 - 2017.1
+Reconhecimento do Curso: Portaria SERES/MEC nº 313, 05/07/2024. D.O.U.: 08/07/2024
+Status: ATIVO
+Período Letivo Atual:
+Prorrogações:
+Ano/Período Letivo de Saída:
+Tipo Saída:
+Data da Colação de Grau: -
+Perfil Inicial: 0
+12
+-
+-
+5 períodos letivos
+Trabalho de Conclusão de Curso: -
+IRA: 3.3575 MP: 3.5806
+Índices Acadêmicos
+Ênfase:
+Nenhum
+Suspensões:
+Data de Saída: -
+-
+Data da Expedição do Diploma:
+2019.2
+VESTIBULAR
+-
+SIGAA - Sistema Integrado de Gestão de Atividades Acadêmicas
+UnB - Universidade de Brasília
+Campus Darcy Ribeiro -Centro de Vivência, Térreo- Asa Norte - CEP 70910-900
+Credenciada conforme decreto MEC Nº 500, de 15 de janeiro de 1962 e publicada no Diário Oficial da União,
+na seção 01, pág. 559, em 16/01/1962.
+Nome: Daniel Rocha Oliveira
+Nacionalidade: BRASILEIRA
+Nº do documento com órgão expedidor: 3330486, (SSP/DF)
+Nº do CPF: 056.813.931-35
+Data de Nascimento: 12/07/2002 Local de Nascimento: BRASIL
+Matrícula: 190104821
+Componentes Curriculares Cursados/Cursando
+Ano/Período
+Letivo
+Componente Curricular Turma Situação
+CH Freq % Nota
+2019.2
+INGRESSANTE - REGULAR: NÃO HABILITADO AO ENADE 2019 EM RAZÃO DA
+NATUREZA DO PROJETO PEDAGÓGICO DO CURSO. DATA DA PROVA:
+24/11/2019
+-- --
+ENADE 0 -- ---
+2019.2 ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES
+SINAYRA PASCOAL COTTS MOREIRA (90h), SINAYRA PASCOAL COTTS MOREIRA (90h)
+CC APR
+CIC0004 90 100,0 MM
+*
+2019.2 INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO -- DISP
+CIC0007 60 100,0 -
+#
+2019.2 COMPUTACAO BASICA -- DISP
+CIC0088 90 100,0 -
+*
+2019.2 ENGENHARIA E AMBIENTE
+Dra. MARIA VITORIA DUARTE FERRARI (60h)
+B APR
+FGA0161 60 94,0 MM
+2019.2 INTRODUÇÃO À ENGENHARIA
+Dr. RICARDO RAMOS FRAGELLI (30h)
+B APR
+FGA0163 30 92,0 MS
+2019.2 DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR
+Dra. HIMILSYS HERNANDEZ GONZALEZ (90h)
+C REP
+FGA0168 90 93,0 MI
+2019.2 CÁLCULO 1
+Dr. RODRIGO ANDRES MIRANDA CERDA (45h)
+BB APR
+MAT0025 90 85,0 MM
+2020.1 DESENVOLVIMENTO DE SOFTWARE
+Dr. GIOVANNI ALMEIDA SANTOS (60h)
+A APR
+FGA0084 60 100,0 MS
+*
+2020.1 PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA
+Dr. RODRIGO ANDRES MIRANDA CERDA (60h)
+B APR
+FGA0157 60 100,0 SS
+2020.1 FISICA 1
+Dr. LEANDRO XAVIER CARDOSO (60h)
+Q APR
+IFD0171 60 100,0 SS
+2020.1 CÁLCULO 2
+Dra. LUIZA YOKO TANEGUTI (90h)
+03A APR
+MAT0026 90 100,0 MS
+2020.1 INTRODUCAO A ALGEBRA LINEAR
+Dra. TAIS CALLIERO TOGNETTI (60h)
+01A APR
+MAT0031 60 100,0 MS
+2020.2 PRÁTICA DE ELETRÔNICA DIGITAL 1
+Dr. GUILLERMO ALVAREZ BESTARD (30h)
+12A APR
+FGA0071 30 93,0 MM
+*
+2020.2 TEORIA DE ELETRÔNICA DIGITAL 1
+Dr. RENATO VILELA LOPES (60h)
+B APR
+FGA0073 60 100,0 MM
+*
+2020.2 ENGENHARIA ECONÔMICA
+Dra. PAULA MEYER SOARES (60h)
+B APR
+FGA0133 60 100,0 MS
+2020.2 DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR
+Dr. MATEUS RODRIGUES MIRANDA (90h)
+05A APR
+FGA0168 90 100,0 MS
+4
+Página 1 de
+Para verificar a autenticidade deste documento entre em https://sig.unb.br/sigaa/documentos/ informando a matrícula, data de emissão
+e o código de verificação: 641b158cbc
