@@ -1,0 +1,241 @@
+{
+    "dados_pessoais": {
+        "nome": "Daniel Rocha Oliveira",
+        "matricula": "190104821",
+        "ira": 3.4082
+    },
+    "componentes_cursados": [
+        {
+            "ano_periodo": "2019.2",
+            "codigo": "*",
+            "nome": "CIC0004",
+            "ch": "ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES SINAYRA PASCOAL COTTS MOREIRA (90h), SINAYRA PASCOAL COTTS MOREIRA (90h)",
+            "turma": "90",
+            "freq": "CC",
+            "nota": "100,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2019.2",
+            "codigo": "#",
+            "nome": "CIC0007",
+            "ch": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+            "turma": "60",
+            "freq": "--",
+            "nota": "100,0",
+            "situacao": "-"
+        },
+        {
+            "ano_periodo": "2019.2",
+            "codigo": "*",
+            "nome": "CIC0088",
+            "ch": "COMPUTACAO BASICA",
+            "turma": "90",
+            "freq": "--",
+            "nota": "100,0",
+            "situacao": "-"
+        },
+        {
+            "ano_periodo": "2020.1",
+            "codigo": "*",
+            "nome": "FGA0084",
+            "ch": "DESENVOLVIMENTO DE SOFTWARE Dr. GIOVANNI ALMEIDA SANTOS (60h)",
+            "turma": "60",
+            "freq": "A",
+            "nota": "100,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2020.2",
+            "codigo": "*",
+            "nome": "FGA0071",
+            "ch": "PRÁTICA DE ELETRÔNICA DIGITAL 1 Dr. GUILLERMO ALVAREZ BESTARD (30h)",
+            "turma": "30",
+            "freq": "12A",
+            "nota": "93,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2020.2",
+            "codigo": "*",
+            "nome": "FGA0073",
+            "ch": "TEORIA DE ELETRÔNICA DIGITAL 1 Dr. RENATO VILELA LOPES (60h)",
+            "turma": "60",
+            "freq": "B",
+            "nota": "100,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2021.1",
+            "codigo": "*",
+            "nome": "FGA0085",
+            "ch": "MATEMÁTICA DISCRETA 1 Dr. GLAUCO VITOR PEDROSA (60h)",
+            "turma": "60",
+            "freq": "A",
+            "nota": "100,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2023.2",
+            "codigo": "#",
+            "nome": "CEM0051",
+            "ch": "PROMOÇÃO DA SAÚDE 3 Dr. JITONE LEONIDAS SOARES (60h), Dr. JONATAS DE FRANCA BARROS (60h), Dr. ANDRE RIBEIRO DA SILVA (60h), Dr. ISAIAS NERY FERREIRA (60h), MSc. TAYANE MEDEIROS DE OLIVEIRA (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "100,0",
+            "situacao": "SS"
+        },
+        {
+            "ano_periodo": "2023.2",
+            "codigo": "*",
+            "nome": "FGA0124",
+            "ch": "PROJETO DE ALGORITMOS Dr. MAURICIO SERRANO (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "83,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2024.1",
+            "codigo": "#",
+            "nome": "DSC0172",
+            "ch": "VIGILÂNCIA EPIDEMIOLÓGICA PARTICIPATIVA Dr. JONAS LOTUFO BRANT DE CARVALHO (30h), Dra. LIGIA MARIA CANTARINO DA COSTA (30h)",
+            "turma": "30",
+            "freq": "06",
+            "nota": "100,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2024.1",
+            "codigo": "*",
+            "nome": "FGA0242",
+            "ch": "TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES Dr. ANDRE LUIZ PERON MARTINS LANNA (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "100,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2025.1",
+            "codigo": "*",
+            "nome": "FGA0083",
+            "ch": "APRENDIZADO DE MÁQUINA Dr. SERGIO ANTONIO ANDRADE DE FREITAS (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "--",
+            "situacao": "-"
+        },
+        {
+            "ano_periodo": "2025.1",
+            "codigo": "e",
+            "nome": "FGA0287",
+            "ch": "TRABALHO DE CONCLUSÃO DE CURSO 1 Dr. FABRICIO ATAIDES BRAZ (15h)",
+            "turma": "60",
+            "freq": "--",
+            "nota": "--",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2025.1",
+            "codigo": "e",
+            "nome": "FGA0304",
+            "ch": "PROJETO INTEGRADOR DE ENGENHARIA 2 Dr. SANDRO AUGUSTO PAVLIK HADDAD (90h)",
+            "turma": "90",
+            "freq": "01",
+            "nota": "98,0",
+            "situacao": "SS"
+        },
+        {
+            "ano_periodo": "2025.2",
+            "codigo": "*",
+            "nome": "FGA0169",
+            "ch": "FONTES DE ENERGIA E TECNOLOGIAS DE CONVERSÃO Dr. AUGUSTO CESAR DE MENDONCA BRASIL (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "100,0",
+            "situacao": "-"
+        },
+        {
+            "ano_periodo": "2025.2",
+            "codigo": "e",
+            "nome": "FGA0316",
+            "ch": "ENGENHARIA DE PRODUTO DE SOFTWARE Dr. RICARDO MATOS CHAIM (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "100,0",
+            "situacao": "-"
+        },
+        {
+            "ano_periodo": "2025.2",
+            "codigo": "e",
+            "nome": "FGA0317",
+            "ch": "GERÊNCIA DE CONFIGURAÇÃO E EVOLUÇÃO DE SOFTWARE",
+            "turma": "60",
+            "freq": "01",
+            "nota": "100,0",
+            "situacao": "-"
+        }
+    ],
+    "componentes_pendentes": [
+        {
+            "codigo": "* Comp. Optativo",
+            "nome": "",
+            "ch": "e Comp. Equivalente a Obrig."
+        },
+        {
+            "codigo": "SIGLA",
+            "nome": "SIGNIFICADO",
+            "ch": ""
+        },
+        {
+            "codigo": "APR",
+            "nome": "Aprovado(a) por média",
+            "ch": ""
+        },
+        {
+            "codigo": "CANC",
+            "nome": "Cancelado",
+            "ch": ""
+        },
+        {
+            "codigo": "DISP",
+            "nome": "Dispensado(a)",
+            "ch": ""
+        },
+        {
+            "codigo": "MATR",
+            "nome": "Matriculado(a)",
+            "ch": ""
+        },
+        {
+            "codigo": "REP",
+            "nome": "Reprovado(a) por média",
+            "ch": ""
+        },
+        {
+            "codigo": "REPF",
+            "nome": "Reprovado(a) por falta",
+            "ch": ""
+        },
+        {
+            "codigo": "REPMF",
+            "nome": "Reprovado(a) por média e falta",
+            "ch": ""
+        },
+        {
+            "codigo": "TRANC",
+            "nome": "Trancado",
+            "ch": ""
+        },
+        {
+            "codigo": "CUMP",
+            "nome": "Cumpriu",
+            "ch": ""
+        },
+        {
+            "codigo": "Menções (Notas) SS - 9,0 a 10,0 MS - 7,0 a 8,9 MM - 5,0 a 6,9 MI - 3,0 a 4,9 II - 0,1 a 2,9 SR - 0",
+            "nome": "",
+            "ch": ""
+        }
+    ]
+}

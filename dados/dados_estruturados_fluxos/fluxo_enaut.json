@@ -1,0 +1,1057 @@
+{
+    "curso_info": {
+        "codigo_matriz": "6297/2",
+        "nome_matriz": "Presencial - D",
+        "unidade_vinculacao": "TECNOLOGIAS EM ENGENHARIA (11.01.32)",
+        "carga_horaria_minima": 3855,
+        "prazos_semestres": {
+            "minimo": 10,
+            "medio": 10,
+            "maximo": 16
+        }
+    },
+    "niveis": {
+        "1": [
+            {
+                "codigo": "FGA0161",
+                "nome": "ENGENHARIA E AMBIENTE",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0163",
+                "nome": "INTRODUÇÃO À ENGENHARIA",
+                "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 30,
+                    "aula_h": 30,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "MAT0025",
+                "nome": "CÁLCULO 1",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "2": [
+            {
+                "codigo": "IFD0171",
+                "nome": "FISICA 1",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "IFD0173",
+                "nome": "FISICA 1 EXPERIMENTAL",
+                "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 30,
+                    "aula_h": 30,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "MAT0026",
+                "nome": "CÁLCULO 2",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "MAT0031",
+                "nome": "INTRODUCAO A ALGEBRA LINEAR",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "3": [
+            {
+                "codigo": "FGA0154",
+                "nome": "MECANICA DOS SÓLIDOS 1 PARA ENGENHARIA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0160",
+                "nome": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "IQD0125",
+                "nome": "QUIMICA GERAL TEORICA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "IQD0126",
+                "nome": "QUIMICA GERAL EXPERIMENTAL",
+                "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 30,
+                    "aula_h": 30,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "MAT0027",
+                "nome": "CÁLCULO 3",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "4": [
+            {
+                "codigo": "ENM0080",
+                "nome": "FENOMENOS DE TRANSPORTE",
+                "carga_horaria_detalhada": "75h 75h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 75,
+                    "aula_h": 75,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0067",
+                "nome": "TEORIA DE CIRCUITOS ELETRÔNICOS 1",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0069",
+                "nome": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 1",
+                "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 30,
+                    "aula_h": 30,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0075",
+                "nome": "LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+                "carga_horaria_detalhada": "15h 15h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 15,
+                    "aula_h": 15,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0078",
+                "nome": "TEORIA DE MATERIAIS DE CONSTRUÇÃO",
+                "carga_horaria_detalhada": "45h 45h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 45,
+                    "aula_h": 45,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0133",
+                "nome": "ENGENHARIA ECONÔMICA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0150",
+                "nome": "PROJETO INTEGRADOR DE ENGENHARIA 1",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0152",
+                "nome": "ERGONOMIA DO PRODUTO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0164",
+                "nome": "HUMANIDADES E CIDADANIA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "5": [
+            {
+                "codigo": "FGA0055",
+                "nome": "TECNOLOGIAS DE FABRICAÇÃO 1",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0086",
+                "nome": "TEORIA DE ELETRICIDADE APLICADA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0087",
+                "nome": "LABORATÓRIO DE ELETRICIDADE APLICADA",
+                "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 30,
+                    "aula_h": 30,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0102",
+                "nome": "SINAIS E SISTEMAS PARA ENGENHARIA",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0179",
+                "nome": "MECANICA DOS SÓLIDOS 2 PARA ENGENHARIA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0184",
+                "nome": "GESTÃO DA PRODUÇÃO E QUALIDADE",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0188",
+                "nome": "MÉTODOS EXPERIMENTAIS PARA ENGENHARIA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "6": [
+            {
+                "codigo": "FGA0023",
+                "nome": "DINÂMICA DOS MECANISMOS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0056",
+                "nome": "TECNOLOGIAS DE FABRICAÇÃO 2",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0076",
+                "nome": "EQUIPAMENTOS TERMOFLUIDOS AUTOMOTIVOS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0148",
+                "nome": "ENGENHARIA DE SEGURANÇA DO TRABALHO",
+                "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 30,
+                    "aula_h": 30,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0190",
+                "nome": "PROJETO DE ELEMENTOS AUTOMOTIVOS",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0191",
+                "nome": "MATERIAIS COMPOSTOS E PLÁSTICOS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "7": [
+            {
+                "codigo": "FGA0226",
+                "nome": "ELETRÔNICA VEICULAR",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0228",
+                "nome": "PROJETO DE SISTEMAS AUTOMOTIVOS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0230",
+                "nome": "DINÂMICA DE VEÍCULOS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0266",
+                "nome": "ACÚSTICA E VIBRAÇÕES VEICULARES",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "8": [
+            {
+                "codigo": "FGA0250",
+                "nome": "PROJETO INTEGRADOR DE ENGENHARIA 2",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0267",
+                "nome": "PROJETO DE ESTRUTURAS DE VEICULOS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "9": [
+            {
+                "codigo": "FGA0009",
+                "nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FGA0021",
+                "nome": "ESTÁGIO SUPERVISIONADO",
+                "carga_horaria_detalhada": "210h 210h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 210,
+                    "aula_h": 210,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "10": [
+            {
+                "codigo": "FGA0011",
+                "nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ]
+    },
+    "optativas": [
+        {
+            "codigo": "CIC0007",
+            "nome": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0088",
+            "nome": "COMPUTACAO BASICA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0200",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "15h 15h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 15,
+                "aula_h": 15,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0201",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0202",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "45h 45h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 45,
+                "aula_h": 45,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0203",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0205",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0206",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "120h 120h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 120,
+                "aula_h": 120,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0207",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "150h 150h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 150,
+                "aula_h": 150,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0208",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "180h 180h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 180,
+                "aula_h": 180,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0209",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "210h 210h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 210,
+                "aula_h": 210,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0210",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "240h 240h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 240,
+                "aula_h": 240,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0211",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "270h 270h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 270,
+                "aula_h": 270,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0212",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "300h 300h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 300,
+                "aula_h": 300,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0213",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "330h 330h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 330,
+                "aula_h": 330,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0214",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "360h 360h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 360,
+                "aula_h": 360,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0215",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "390h 390h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 390,
+                "aula_h": 390,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0216",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "420h 420h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 420,
+                "aula_h": 420,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0217",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "450h 450h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 450,
+                "aula_h": 450,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0218",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "480h 480h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 480,
+                "aula_h": 480,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0219",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "510h 510h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 510,
+                "aula_h": 510,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0007",
+            "nome": "CONFIABILIDADE DE COMPONENTES E SISTEMAS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0040",
+            "nome": "SISTEMAS DE CONTROLE AUTOMOTIVO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0046",
+            "nome": "MÉTODOS E TÉCNICAS DA ESCRITA CIENTÍFICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0077",
+            "nome": "INTRODUÇÃO AO DESGASTE",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0123",
+            "nome": "CÁLCULO PARA ENGENHARIA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0125",
+            "nome": "INTRODUÇÃO À GEOMETRIA ANALÍTICA",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0126",
+            "nome": "CÁLCULO PARA ENGENHARIA 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0127",
+            "nome": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0128",
+            "nome": "CÁLCULO PARA ENGENHARIA 3",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0131",
+            "nome": "ENGENHARIA DE SOFTWARE AUTOMOTIVO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0167",
+            "nome": "SISTEMAS AUTOMOTIVOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0186",
+            "nome": "ELETRICIDADE APLICADA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0195",
+            "nome": "GESTÃO DA PRODUÇÃO AUTOMOTIVA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0232",
+            "nome": "INTEGRAÇÃO E TESTES",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0233",
+            "nome": "SENSORES E TRANSDUTORES",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0270",
+            "nome": "SISTEMAS HIDRÁULICOS E PNEUMÁTICOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0271",
+            "nome": "PROJETO DE VEÍCULOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0272",
+            "nome": "DINÂMICA MULTICORPOS VEICULAR",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0284",
+            "nome": "ENGENHARIA DE MANUTENÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FGA0285",
+            "nome": "INTRODUÇÃO À MECÂNICA DA FRATURA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LIP0174",
+            "nome": "LÍNGUA DE SINAIS BRASILEIRA - BÁSICO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        }
+    ]
+}

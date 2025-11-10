@@ -1,0 +1,2421 @@
+{
+    "curso_info": {
+        "codigo_matriz": "8117/1",
+        "nome_matriz": "ADMINISTRAÇÃO/ADM - Bacharelado - Presencial - D",
+        "unidade_vinculacao": "DEPTO ADMINISTRAÇÃO (11.01.01.02.01)",
+        "carga_horaria_minima": 3000,
+        "prazos_semestres": {
+            "minimo": 8,
+            "medio": 8,
+            "maximo": 16
+        }
+    },
+    "niveis": {
+        "1": [
+            {
+                "codigo": "ADM0023",
+                "nome": "INTRODUÇÃO À ADMINISTRAÇÃO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ECO0019",
+                "nome": "INTRODUÇÃO À ECONOMIA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "MAT0025",
+                "nome": "CÁLCULO 1",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "POL0011",
+                "nome": "INTRODUÇÃO À CIÊNCIA POLÍTICA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "2": [
+            {
+                "codigo": "ADM0214",
+                "nome": "INTRODUÇÃO A TEORIAS ORGANIZACIONAIS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ADM0231",
+                "nome": "COMPORTAMENTO ORGANIZACIONAL",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "CCA0103",
+                "nome": "INTRODUÇÃO À CONTABILIDADE",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "EST0019",
+                "nome": "ESTATÍSTICA APLICADA",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "3": [
+            {
+                "codigo": "ADM0014",
+                "nome": "ADMINISTRAÇÃO PÚBLICA E GESTÃO SOCIAL",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ADM0041",
+                "nome": "GESTÃO DE PESSOAS EM ORGANIZAÇÕES",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ADM0187",
+                "nome": "MICROECONOMIA APLICADA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ADM0192",
+                "nome": "CALCULO FINANCEIRO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ADM0198",
+                "nome": "METODOLOGIA CIENTÍFICA APLICADA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "4": [
+            {
+                "codigo": "ADM0052",
+                "nome": "FINANÇAS 1",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ADM0064",
+                "nome": "ADMINISTRAÇÃO DE MARKETING",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ADM0190",
+                "nome": "MACROECONOMIA APLICADA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "5": [
+            {
+                "codigo": "ADM0021",
+                "nome": "SOCIOLOGIA APLICADA À ADMINISTRAÇÃO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ADM0035",
+                "nome": "ANÁLISE DE DECISÕES 1",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ADM0092",
+                "nome": "ADMINISTRAÇÃO DA PRODUÇÃO E OPERAÇÕES",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "FDD0004",
+                "nome": "INSTITUIÇÕES DE DIREITO PÚBLICO E PRIVADO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "6": [
+            {
+                "codigo": "ADM0061",
+                "nome": "LOGÍSTICA ORGANIZACIONAL",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ADM0157",
+                "nome": "ESTRATÉGIA ORGANIZACIONAL",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ADM0298",
+                "nome": "ADMINISTRAÇÃO DE SISTEMAS DE INFORMAÇÃO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "7": [
+            {
+                "codigo": "ADM0273",
+                "nome": "PROJETO DE PESQUISA EM ADMINISTRAÇÃO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "8": [
+            {
+                "codigo": "ADM0297",
+                "nome": "ELABORAÇÃO DE TRABALHO DE CURSO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ]
+    },
+    "optativas": [
+        {
+            "codigo": "ADM0002",
+            "nome": "ESTUDOS E PESQUISAS EM ADMINISTRAÇÃO",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0003",
+            "nome": "TÓPICOS CONTEMPORÂNEOS EM ESTRATÉGIA",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0004",
+            "nome": "TÓPICOS CONTEMPORÂNEOS EM INOVAÇÃO",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0005",
+            "nome": "INOVAÇÃO EM SERVIÇOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0006",
+            "nome": "GESTÃO DE MARCAS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0007",
+            "nome": "LOGÍSTICA INTERNACIONAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0008",
+            "nome": "MARKETING SOCIALMENTE RESPONSÁVEL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0009",
+            "nome": "MARKETING DE SERVIÇOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0010",
+            "nome": "MARKETING DIGITAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0012",
+            "nome": "ADMINISTRAÇÃO DE CUSTOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0013",
+            "nome": "AVALIAÇÃO DA EFICIÊNCIA E PRODUTIVIDADE",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0015",
+            "nome": "ESTADO, GOVERNO E SOCIEDADE",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0016",
+            "nome": "ORGANIZAÇÃO E GESTÃO DE SERVIÇOS PÚBLICOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0017",
+            "nome": "GESTÃO DE COMPRAS PÚBLICAS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0019",
+            "nome": "TÓPICOS EM PRODUÇÃO E OPERAÇÕES",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0020",
+            "nome": "TÓPICOS EM GESTÃO DA TECNOLOGIA",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0025",
+            "nome": "ORGANIZACAO E SISTEMAS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0068",
+            "nome": "MERCADO FINANCEIRO E DE CAPITAIS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0070",
+            "nome": "GOVERNO E ADMINISTRACAO NO BRASIL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0087",
+            "nome": "GESTÃO DE FINANÇAS PESSOAIS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0107",
+            "nome": "ORÇAMENTO EMPRESARIAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0150",
+            "nome": "CRIACAO DE NEGOCIOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0162",
+            "nome": "GESTÃO DA INOVAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0219",
+            "nome": "ANÁLISE DECISÓRIA EM PROJETOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0226",
+            "nome": "GESTÃO DE PROJETOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0228",
+            "nome": "ANALISE INSTITUCIONAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0241",
+            "nome": "PESQUISA DE MARKETING",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0244",
+            "nome": "GESTÃO DE VENDAS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0253",
+            "nome": "TREINAMENTO, DESENVOLVIMENTO E EDUCAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0258",
+            "nome": "GESTÃO DE DESEMPENHO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0261",
+            "nome": "MARKETING DE ESPECIALIDADES",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0270",
+            "nome": "OFICINA DE PRODUTOS E PROJETOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0299",
+            "nome": "ANÁLISE DE DECISÕES 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0300",
+            "nome": "COMPORTAMENTO DO CONSUMIDOR",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0301",
+            "nome": "FINANÇAS 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0302",
+            "nome": "GESTÃO DE MUDANÇA ORGANIZACIONAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0303",
+            "nome": "GESTÃO DE PROCESSOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0304",
+            "nome": "GESTÃO DE RESPONSABILIDADE SOCIOAMBIENTAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0305",
+            "nome": "GESTÃO POR COMPETÊNCIAS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0306",
+            "nome": "MARKETING DE RELACIONAMENTO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0308",
+            "nome": "NEGOCIAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0311",
+            "nome": "TÓPICOS CONTEMPORÂNEOS EM FINANÇAS",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0317",
+            "nome": "ADMINISTRAÇÃO DA QUALIDADE",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0322",
+            "nome": "CRIATIVIDADE E INOVAÇÃO NAS ORGANIZAÇÕES",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0323",
+            "nome": "TÓPICOS CONTEMPORÂNEOS EM MARKETING",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0364",
+            "nome": "POLITICAS PÚBLICAS DE TURISMO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0366",
+            "nome": "GESTÃO DE TELETRABALHO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ADM0367",
+            "nome": "LGBT NAS ORGANIZAÇÕES",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CCA0015",
+            "nome": "CONTABILIDADE GERAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CCA0018",
+            "nome": "CUSTOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CCA0021",
+            "nome": "ANÁLISE ECONÔMICO-FINANCEIRA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CCA0029",
+            "nome": "CONTABILIDADE COMERCIAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CCA0040",
+            "nome": "CONTABILIDADE GERAL 3",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CCA0044",
+            "nome": "CONTROLADORIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CCA0056",
+            "nome": "AVALIAÇÃO DE PROJETOS DE INVESTIMENTO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CCA0067",
+            "nome": "PROGRAMACAO FISCAL E FINANCEIRA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CCA0074",
+            "nome": "ANÁLISE ECONÔMICO-FINANCEIRA 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CCA0079",
+            "nome": "CONTABILIDADE GERAL 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CCA0089",
+            "nome": "ANALISE DA LIQUIDEZ",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CCA0091",
+            "nome": "EXECUCAO DA GESTAO PUBLICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0007",
+            "nome": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0008",
+            "nome": "PROGRAMACAO SISTEMATICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0088",
+            "nome": "COMPUTACAO BASICA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0090",
+            "nome": "ESTRUTURAS DE DADOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0092",
+            "nome": "ORGANIZAÇÃO DE ARQUIVOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0097",
+            "nome": "BANCOS DE DADOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0101",
+            "nome": "SISTEMAS DE INFORMACAO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0174",
+            "nome": "INTRODUCAO A PROGRAMACAO CIENTIFICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0175",
+            "nome": "PROGRAMACAO AVANCADA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DAN0022",
+            "nome": "INTRODUÇÃO À ANTROPOLOGIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0200",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "15h 15h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 15,
+                "aula_h": 15,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0201",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0202",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "45h 45h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 45,
+                "aula_h": 45,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0203",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0205",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0206",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "120h 120h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 120,
+                "aula_h": 120,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0207",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "150h 150h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 150,
+                "aula_h": 150,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0208",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "180h 180h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 180,
+                "aula_h": 180,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0209",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "210h 210h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 210,
+                "aula_h": 210,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0210",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "240h 240h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 240,
+                "aula_h": 240,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0211",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "270h 270h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 270,
+                "aula_h": 270,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0212",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "300h 300h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 300,
+                "aula_h": 300,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0213",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "330h 330h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 330,
+                "aula_h": 330,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0214",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "360h 360h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 360,
+                "aula_h": 360,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0215",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "390h 390h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 390,
+                "aula_h": 390,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0216",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "420h 420h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 420,
+                "aula_h": 420,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0217",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "450h 450h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 450,
+                "aula_h": 450,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0218",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "480h 480h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 480,
+                "aula_h": 480,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0219",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "510h 510h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 510,
+                "aula_h": 510,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0196",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "15h 15h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 15,
+                "aula_h": 15,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0197",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0198",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "45h 45h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 45,
+                "aula_h": 45,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0199",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0200",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0201",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "120h 120h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 120,
+                "aula_h": 120,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0202",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "150h 150h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 150,
+                "aula_h": 150,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0203",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "180h 180h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 180,
+                "aula_h": 180,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0204",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "240h 240h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 240,
+                "aula_h": 240,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0205",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "240h 240h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 240,
+                "aula_h": 240,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0206",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "270h 270h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 270,
+                "aula_h": 270,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0207",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "300h 300h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 300,
+                "aula_h": 300,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0208",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "330h 330h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 330,
+                "aula_h": 330,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0209",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "360h 360h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 360,
+                "aula_h": 360,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0210",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "390h 390h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 390,
+                "aula_h": 390,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0211",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "420h 420h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 420,
+                "aula_h": 420,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0212",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "450h 450h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 450,
+                "aula_h": 450,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0213",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "480h 480h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 480,
+                "aula_h": 480,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0214",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "510h 510h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 510,
+                "aula_h": 510,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ECO0023",
+            "nome": "FORMAÇÃO ECONÔMICA DO BRASIL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ECO0050",
+            "nome": "CONTABILIDADE NACIONAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ECO0072",
+            "nome": "ECONOMIA BRASILEIRA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ECO0128",
+            "nome": "INTRODUCAO A ECONOMETRIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ECO0197",
+            "nome": "ECONOMIA ESTATISTICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ECO0218",
+            "nome": "EVOLUCAO DAS IDEIAS ECONOMICAS SOCIAIS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "EPR0066",
+            "nome": "PESQUISA OPERACIONAL EM ENGENHARIA 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "EST0023",
+            "nome": "PROBABILIDADE E ESTATÍSTICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "EST0028",
+            "nome": "ESTATÍSTICA APLICADA À PSICOLOGIA 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "EST0054",
+            "nome": "PESQUISA OPERACIONAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "EST0060",
+            "nome": "MATEMATICA FINANCEIRA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "EST0061",
+            "nome": "INTRODUCAO A ESTATISTICA ECONOMICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "EST0069",
+            "nome": "INTRODUCAO A PROBABILIDADE",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FCI0034",
+            "nome": "GERÊNCIA DE SISTEMAS DE INFORMAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FCI0051",
+            "nome": "PLANEJAMENTO DE SISTEMAS DE INFORMAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FDD0006",
+            "nome": "INTRODUÇÃO AO DIREITO 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FDD0015",
+            "nome": "LEGISLAÇÃO SOCIAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FDD0062",
+            "nome": "TEORIA GERAL DO DIREITO PRIVADO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FDD0141",
+            "nome": "LEGISLAÇÃO TRIBUTÁRIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FDD0172",
+            "nome": "LEGISLAÇÃO ADMINISTRATIVA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0064",
+            "nome": "ÉTICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0069",
+            "nome": "INTRODUÇÃO À FILOSOFIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0105",
+            "nome": "INICIAÇÃO À PRÁTICA FILOSÓFICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FTD0008",
+            "nome": "EMPRESA JUNIOR 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FTD0009",
+            "nome": "EMPRESA JUNIOR 2",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "GPP0031",
+            "nome": "ECONOMIA PARA POLÍTICAS PÚBLICAS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "GPP0032",
+            "nome": "FINANÇAS PÚBLICAS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "GPP0033",
+            "nome": "PLANEJAMENTO GOVERNAMENTAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "GPP0035",
+            "nome": "ADMINISTRACAO PUBLICA COMPARADA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "GPP0036",
+            "nome": "ORCAMENTO PUBLICO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "GPP0037",
+            "nome": "FUNDAMENTOS DA ADMINISTRAÇÃO PÚBLICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "GPP0040",
+            "nome": "INOVAÇÃO NO SETOR PÚBLICO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "IFD0353",
+            "nome": "PROGRAMAÇÃO PARA SISTEMAS FÍSICOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "IRI0015",
+            "nome": "TEORIA DAS RELAÇÕES INTERNACIONAIS 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "IRI0053",
+            "nome": "COMÉRCIO INTERNACIONAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "IRI0065",
+            "nome": "RELAÇÕES ECONÔMICAS INTERNACIONAIS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "IRI0168",
+            "nome": "ECONOMIA POLÍTICA INTERNACIONAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "IRI0169",
+            "nome": "ECONOMIA POLÍTICA INTERNACIONAL 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LET0101",
+            "nome": "LÍNGUA ALEMÃ 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LET0118",
+            "nome": "LÍNGUA ESPANHOLA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LET0331",
+            "nome": "INGLÊS INSTRUMENTAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LET0337",
+            "nome": "LINGUA ITALIANA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LET0376",
+            "nome": "LINGUA CHINESA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LET0377",
+            "nome": "LÍNGUA CHINESA 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LET0378",
+            "nome": "LINGUA CHINESA 3",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LET0431",
+            "nome": "FRANCÊS 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LIP0037",
+            "nome": "LÍNGUA PORTUGUESA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LIP0096",
+            "nome": "LEITURA E PRODUÇÃO DE TEXTOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LIP0174",
+            "nome": "LÍNGUA DE SINAIS BRASILEIRA - BÁSICO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MAT0022",
+            "nome": "MATEMATICA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MAT0026",
+            "nome": "CÁLCULO 2",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MAT0031",
+            "nome": "INTRODUCAO A ALGEBRA LINEAR",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MAT0039",
+            "nome": "ALGEBRA LINEAR",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MAT0137",
+            "nome": "CÁLCULO 1 - SEMIPRESENCIAL",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "POL0012",
+            "nome": "TEORIA POLÍTICA MODERNA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "POL0040",
+            "nome": "AVALIAÇÃO DE POLÍTICAS GOVERNAMENTAIS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "POL0055",
+            "nome": "FUNDAMENTOS DE POLÍTICAS PÚBLICAS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PPB0014",
+            "nome": "INTRODUÇÃO À PSICOLOGIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PST0011",
+            "nome": "PSICOLOGIA SOCIAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PST0020",
+            "nome": "ANÁLISE ORGANIZACIONAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PST0034",
+            "nome": "ERGONOMIA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PST0039",
+            "nome": "MEDIDAS EM PSICOLOGIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PST0051",
+            "nome": "PSICOLOGIA DAS ORGANIZAÇÕES",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PST0066",
+            "nome": "ERGONOMIA APLICADA A INFORMATICA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PST0078",
+            "nome": "DIVERSIDADE NAS ORGANIZAÇÕES",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "SOL0042",
+            "nome": "INTRODUÇÃO À SOCIOLOGIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        }
+    ]
+}

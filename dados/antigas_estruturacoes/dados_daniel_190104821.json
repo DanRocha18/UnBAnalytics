@@ -1,0 +1,601 @@
+{
+    "dados_pessoais": {
+        "nome": "Daniel Rocha Oliveira Matrícula: 190104821",
+        "matricula": "190104821",
+        "ira": 3.4082
+    },
+    "componentes_cursados": [
+        {
+            "ano_periodo": "2019.2",
+            "codigo": "",
+            "nome": "ENADE",
+            "ch": "INGRESSANTE - REGULAR: NÃO HABILITADO AO ENADE 2019 EM RAZÃO DA NATUREZA DO PROJETO PEDAGÓGICO DO CURSO. DATA DA PROVA: 24/11/2019",
+            "turma": "0",
+            "freq": "--",
+            "nota": "--",
+            "situacao": "---"
+        },
+        {
+            "ano_periodo": "2019.2",
+            "codigo": "*",
+            "nome": "CIC0004",
+            "ch": "ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES SINAYRA PASCOAL COTTS MOREIRA (90h), SINAYRA PASCOAL COTTS MOREIRA (90h)",
+            "turma": "90",
+            "freq": "CC",
+            "nota": "100,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2019.2",
+            "codigo": "#",
+            "nome": "CIC0007",
+            "ch": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+            "turma": "60",
+            "freq": "--",
+            "nota": "100,0",
+            "situacao": "-"
+        },
+        {
+            "ano_periodo": "2019.2",
+            "codigo": "*",
+            "nome": "CIC0088",
+            "ch": "COMPUTACAO BASICA",
+            "turma": "90",
+            "freq": "--",
+            "nota": "100,0",
+            "situacao": "-"
+        },
+        {
+            "ano_periodo": "2019.2",
+            "codigo": "",
+            "nome": "FGA0161",
+            "ch": "ENGENHARIA E AMBIENTE Dra. MARIA VITORIA DUARTE FERRARI (60h)",
+            "turma": "60",
+            "freq": "B",
+            "nota": "94,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2019.2",
+            "codigo": "",
+            "nome": "FGA0163",
+            "ch": "INTRODUÇÃO À ENGENHARIA Dr. RICARDO RAMOS FRAGELLI (30h)",
+            "turma": "30",
+            "freq": "B",
+            "nota": "92,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2019.2",
+            "codigo": "",
+            "nome": "FGA0168",
+            "ch": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR Dra. HIMILSYS HERNANDEZ GONZALEZ (90h)",
+            "turma": "90",
+            "freq": "C",
+            "nota": "93,0",
+            "situacao": "MI"
+        },
+        {
+            "ano_periodo": "2019.2",
+            "codigo": "",
+            "nome": "MAT0025",
+            "ch": "CÁLCULO 1 Dr. RODRIGO ANDRES MIRANDA CERDA (45h)",
+            "turma": "90",
+            "freq": "BB",
+            "nota": "85,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2020.1",
+            "codigo": "*",
+            "nome": "FGA0084",
+            "ch": "DESENVOLVIMENTO DE SOFTWARE Dr. GIOVANNI ALMEIDA SANTOS (60h)",
+            "turma": "60",
+            "freq": "A",
+            "nota": "100,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2020.1",
+            "codigo": "",
+            "nome": "FGA0157",
+            "ch": "PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA Dr. RODRIGO ANDRES MIRANDA CERDA (60h)",
+            "turma": "60",
+            "freq": "B",
+            "nota": "100,0",
+            "situacao": "SS"
+        },
+        {
+            "ano_periodo": "2020.1",
+            "codigo": "",
+            "nome": "IFD0171",
+            "ch": "FISICA 1 Dr. LEANDRO XAVIER CARDOSO (60h)",
+            "turma": "60",
+            "freq": "Q",
+            "nota": "100,0",
+            "situacao": "SS"
+        },
+        {
+            "ano_periodo": "2020.1",
+            "codigo": "",
+            "nome": "MAT0026",
+            "ch": "CÁLCULO 2 Dra. LUIZA YOKO TANEGUTI (90h)",
+            "turma": "90",
+            "freq": "03A",
+            "nota": "100,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2020.1",
+            "codigo": "",
+            "nome": "MAT0031",
+            "ch": "INTRODUCAO A ALGEBRA LINEAR Dra. TAIS CALLIERO TOGNETTI (60h)",
+            "turma": "60",
+            "freq": "01A",
+            "nota": "100,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2020.2",
+            "codigo": "*",
+            "nome": "FGA0071",
+            "ch": "PRÁTICA DE ELETRÔNICA DIGITAL 1 Dr. GUILLERMO ALVAREZ BESTARD (30h)",
+            "turma": "30",
+            "freq": "12A",
+            "nota": "93,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2020.2",
+            "codigo": "*",
+            "nome": "FGA0073",
+            "ch": "TEORIA DE ELETRÔNICA DIGITAL 1 Dr. RENATO VILELA LOPES (60h)",
+            "turma": "60",
+            "freq": "B",
+            "nota": "100,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2020.2",
+            "codigo": "",
+            "nome": "FGA0133",
+            "ch": "ENGENHARIA ECONÔMICA Dra. PAULA MEYER SOARES (60h)",
+            "turma": "60",
+            "freq": "B",
+            "nota": "100,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2020.2",
+            "codigo": "",
+            "nome": "FGA0168",
+            "ch": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR Dr. MATEUS RODRIGUES MIRANDA (90h)",
+            "turma": "90",
+            "freq": "05A",
+            "nota": "100,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2021.1",
+            "codigo": "*",
+            "nome": "FGA0085",
+            "ch": "MATEMÁTICA DISCRETA 1 Dr. GLAUCO VITOR PEDROSA (60h)",
+            "turma": "60",
+            "freq": "A",
+            "nota": "100,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2021.1",
+            "codigo": "",
+            "nome": "FGA0158",
+            "ch": "ORIENTAÇÃO A OBJETOS Dra. FABIANA FREITAS MENDES (60h)",
+            "turma": "60",
+            "freq": "B",
+            "nota": "96,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2021.1",
+            "codigo": "",
+            "nome": "FGA0160",
+            "ch": "MÉTODOS NUMÉRICOS PARA ENGENHARIA Dr. RONNE TOLEDO (60h)",
+            "turma": "60",
+            "freq": "B",
+            "nota": "100,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2021.1",
+            "codigo": "",
+            "nome": "IFD0173",
+            "ch": "FISICA 1 EXPERIMENTAL Dr. EBERTH DE ALMEIDA CORREA (30h)",
+            "turma": "30",
+            "freq": "GG",
+            "nota": "100,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2021.2",
+            "codigo": "",
+            "nome": "FGA0138",
+            "ch": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE MSc. HILMER RODRIGUES NERI (60h)",
+            "turma": "60",
+            "freq": "B",
+            "nota": "100,0",
+            "situacao": "MI"
+        },
+        {
+            "ano_periodo": "2021.2",
+            "codigo": "",
+            "nome": "FGA0147",
+            "ch": "ESTRUTURA DE DADOS E ALGORITMOS Dr. NILTON CORREIA DA SILVA (60h)",
+            "turma": "60",
+            "freq": "B",
+            "nota": "100,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2021.2",
+            "codigo": "",
+            "nome": "FGA0164",
+            "ch": "HUMANIDADES E CIDADANIA Dra. SANDRA MARIA FALEIROS LIMA (60h)",
+            "turma": "60",
+            "freq": "B",
+            "nota": "93,0",
+            "situacao": "SS"
+        },
+        {
+            "ano_periodo": "2021.2",
+            "codigo": "",
+            "nome": "FGA0184",
+            "ch": "GESTÃO DA PRODUÇÃO E QUALIDADE Dra. REJANE MARIA DA COSTA FIGUEIREDO (60h)",
+            "turma": "60",
+            "freq": "A",
+            "nota": "94,0",
+            "situacao": "SS"
+        },
+        {
+            "ano_periodo": "2022.1",
+            "codigo": "",
+            "nome": "FGA0138",
+            "ch": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE MSc. HILMER RODRIGUES NERI (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "89,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2022.1",
+            "codigo": "",
+            "nome": "FGA0142",
+            "ch": "FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES Dr. TIAGO ALVES DA FONSECA (60h)",
+            "turma": "60",
+            "freq": "02",
+            "nota": "86,0",
+            "situacao": "MI"
+        },
+        {
+            "ano_periodo": "2022.1",
+            "codigo": "",
+            "nome": "FGA0150",
+            "ch": "PROJETO INTEGRADOR DE ENGENHARIA 1 Dr. JUNGPYO LEE (60h)",
+            "turma": "60",
+            "freq": "03",
+            "nota": "81,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2022.2",
+            "codigo": "",
+            "nome": "FGA0030",
+            "ch": "ESTRUTURAS DE DADOS 2 Dr. JOHN LENON CARDOSO GARDENGHI (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "88,0",
+            "situacao": "MI"
+        },
+        {
+            "ano_periodo": "2022.2",
+            "codigo": "",
+            "nome": "FGA0172",
+            "ch": "REQUISITOS DE SOFTWARE Dr. GEORGE MARSICANO CORREA (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "98,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2022.2",
+            "codigo": "",
+            "nome": "FGA0173",
+            "ch": "INTERAÇÃO HUMANO COMPUTADOR Dr. SERGIO ANTONIO ANDRADE DE FREITAS (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "83,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2023.1",
+            "codigo": "",
+            "nome": "FGA0142",
+            "ch": "FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES Dr. TIAGO ALVES DA FONSECA (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "79,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2023.1",
+            "codigo": "",
+            "nome": "FGA0208",
+            "ch": "ARQUITETURA E DESENHO DE SOFTWARE Dra. MILENE SERRANO (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "93,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2023.1",
+            "codigo": "",
+            "nome": "FGA0278",
+            "ch": "QUALIDADE DE SOFTWARE 1 MSc. CRISTIANE SOARES RAMOS (60h)",
+            "turma": "60",
+            "freq": "02",
+            "nota": "76,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2023.2",
+            "codigo": "#",
+            "nome": "CEM0051",
+            "ch": "PROMOÇÃO DA SAÚDE 3 Dr. JITONE LEONIDAS SOARES (60h), Dr. JONATAS DE FRANCA BARROS (60h), Dr. ANDRE RIBEIRO DA SILVA (60h), Dr. ISAIAS NERY FERREIRA (60h), MSc. TAYANE MEDEIROS DE OLIVEIRA (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "100,0",
+            "situacao": "SS"
+        },
+        {
+            "ano_periodo": "2023.2",
+            "codigo": "",
+            "nome": "FGA0003",
+            "ch": "COMPILADORES 1 Dr. EDSON ALVES DA COSTA JUNIOR (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "76,0",
+            "situacao": "MI"
+        },
+        {
+            "ano_periodo": "2023.2",
+            "codigo": "",
+            "nome": "FGA0108",
+            "ch": "MATEMÁTICA DISCRETA 2 Dr. MATHEUS BERNARDINI DE SOUZA (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "44,0",
+            "situacao": "SR"
+        },
+        {
+            "ano_periodo": "2023.2",
+            "codigo": "*",
+            "nome": "FGA0124",
+            "ch": "PROJETO DE ALGORITMOS Dr. MAURICIO SERRANO (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "83,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2023.2",
+            "codigo": "",
+            "nome": "FGA0170",
+            "ch": "FUNDAMENTOS DE SISTEMAS OPERACIONAIS Dr. DANIEL SUNDFELD LIMA (60h)",
+            "turma": "60",
+            "freq": "02",
+            "nota": "80,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2023.2",
+            "codigo": "",
+            "nome": "FGA0238",
+            "ch": "TESTES DE SOFTWARE Dra. ELAINE VENSON (60h)",
+            "turma": "60",
+            "freq": "02",
+            "nota": "76,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2023.4",
+            "codigo": "",
+            "nome": "FGA0108",
+            "ch": "MATEMÁTICA DISCRETA 2 Dr. VINICIUS DE CARVALHO RISPOLI (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "100,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2024.1",
+            "codigo": "#",
+            "nome": "DSC0172",
+            "ch": "VIGILÂNCIA EPIDEMIOLÓGICA PARTICIPATIVA Dr. JONAS LOTUFO BRANT DE CARVALHO (30h), Dra. LIGIA MARIA CANTARINO DA COSTA (30h)",
+            "turma": "30",
+            "freq": "06",
+            "nota": "100,0",
+            "situacao": "MS"
+        },
+        {
+            "ano_periodo": "2024.1",
+            "codigo": "",
+            "nome": "FGA0003",
+            "ch": "COMPILADORES 1 Dr. BRUNO CESAR RIBAS (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "100,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2024.1",
+            "codigo": "",
+            "nome": "FGA0137",
+            "ch": "SISTEMAS DE BANCO DE DADOS 1 Dr. MAURICIO SERRANO (60h)",
+            "turma": "60",
+            "freq": "02",
+            "nota": "78,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2024.1",
+            "codigo": "*",
+            "nome": "FGA0242",
+            "ch": "TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES Dr. ANDRE LUIZ PERON MARTINS LANNA (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "100,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2024.2",
+            "codigo": "",
+            "nome": "FGA0030",
+            "ch": "ESTRUTURAS DE DADOS 2 Dr. JOHN LENON CARDOSO GARDENGHI (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "81,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2024.2",
+            "codigo": "",
+            "nome": "FGA0060",
+            "ch": "SISTEMAS DE BANCO DE DADOS 2 Dr. VANDOR ROBERTO VILARDI RISSOLI (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "90,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2024.2",
+            "codigo": "",
+            "nome": "FGA0211",
+            "ch": "FUNDAMENTOS DE REDES DE COMPUTADORES Dr. TIAGO ALVES DA FONSECA (60h)",
+            "turma": "60",
+            "freq": "02",
+            "nota": "100,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2025.1",
+            "codigo": "*",
+            "nome": "FGA0083",
+            "ch": "APRENDIZADO DE MÁQUINA Dr. SERGIO ANTONIO ANDRADE DE FREITAS (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "--",
+            "situacao": "-"
+        },
+        {
+            "ano_periodo": "2025.1",
+            "codigo": "",
+            "nome": "FGA0109",
+            "ch": "FUNDAMENTOS DE SISTEMAS EMBARCADOS Dr. RENATO CORAL SAMPAIO (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "100,0",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2025.1",
+            "codigo": "e",
+            "nome": "FGA0287",
+            "ch": "TRABALHO DE CONCLUSÃO DE CURSO 1 Dr. FABRICIO ATAIDES BRAZ (15h)",
+            "turma": "60",
+            "freq": "--",
+            "nota": "--",
+            "situacao": "MM"
+        },
+        {
+            "ano_periodo": "2025.1",
+            "codigo": "e",
+            "nome": "FGA0304",
+            "ch": "PROJETO INTEGRADOR DE ENGENHARIA 2 Dr. SANDRO AUGUSTO PAVLIK HADDAD (90h)",
+            "turma": "90",
+            "freq": "01",
+            "nota": "98,0",
+            "situacao": "SS"
+        },
+        {
+            "ano_periodo": "2025.2",
+            "codigo": "*",
+            "nome": "FGA0169",
+            "ch": "FONTES DE ENERGIA E TECNOLOGIAS DE CONVERSÃO Dr. AUGUSTO CESAR DE MENDONCA BRASIL (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "100,0",
+            "situacao": "-"
+        },
+        {
+            "ano_periodo": "2025.2",
+            "codigo": "e",
+            "nome": "FGA0316",
+            "ch": "ENGENHARIA DE PRODUTO DE SOFTWARE Dr. RICARDO MATOS CHAIM (60h)",
+            "turma": "60",
+            "freq": "01",
+            "nota": "100,0",
+            "situacao": "-"
+        },
+        {
+            "ano_periodo": "2025.2",
+            "codigo": "e",
+            "nome": "FGA0317",
+            "ch": "GERÊNCIA DE CONFIGURAÇÃO E EVOLUÇÃO DE SOFTWARE",
+            "turma": "60",
+            "freq": "01",
+            "nota": "100,0",
+            "situacao": "-"
+        }
+    ],
+    "componentes_pendentes": [
+        {
+            "codigo": "Código",
+            "nome": "Componente Curricular",
+            "ch": "CH"
+        },
+        {
+            "codigo": "FGA0244",
+            "nome": "PROGRAMAÇÃO PARA SISTEMAS PARALELOS E DISTRIBUÍDOS",
+            "ch": "60 h"
+        },
+        {
+            "codigo": "FGA0210",
+            "nome": "PARADIGMAS DE PROGRAMAÇÃO",
+            "ch": "60 h"
+        },
+        {
+            "codigo": "FGA0021",
+            "nome": "ESTÁGIO SUPERVISIONADO",
+            "ch": "210 h"
+        },
+        {
+            "codigo": "FGA0206",
+            "nome": "ENGENHARIA DE PRODUTO DE SOFTWARE Matriculado em Equivalente",
+            "ch": "60 h"
+        },
+        {
+            "codigo": "FGA0240",
+            "nome": "GERÊNCIA DE CONFIGURAÇÃO E EVOLUÇÃO DE SOFTWARE Matriculado em Equivalente",
+            "ch": "60 h"
+        },
+        {
+            "codigo": "FGA0011",
+            "nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+            "ch": "90 h"
+        },
+        {
+            "codigo": "ENADE",
+            "nome": "ENADE CONCLUINTE PENDENTE",
+            "ch": "0 h"
+        }
+    ]
+}

@@ -1,0 +1,1639 @@
+{
+    "curso_info": {
+        "codigo_matriz": "1741/3",
+        "nome_matriz": "Presencial - D",
+        "unidade_vinculacao": "DEPTO CIÊNCIAS DA COMPUTAÇÃO (11.01.01.15.01)",
+        "carga_horaria_minima": 3210,
+        "prazos_semestres": {
+            "minimo": 8,
+            "medio": 8,
+            "maximo": 16
+        }
+    },
+    "niveis": {
+        "1": [
+            {
+                "codigo": "FTD0018",
+                "nome": "IMPACTOS SOCIAIS DA TECNOLOGIA",
+                "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 30,
+                    "aula_h": 30,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "IFD0171",
+                "nome": "FISICA 1",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "IFD0173",
+                "nome": "FISICA 1 EXPERIMENTAL",
+                "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 30,
+                    "aula_h": 30,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "MAT0025",
+                "nome": "CÁLCULO 1",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "MAT0031",
+                "nome": "INTRODUCAO A ALGEBRA LINEAR",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "2": [
+            {
+                "codigo": "CIC0090",
+                "nome": "ESTRUTURAS DE DADOS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "CIC0256",
+                "nome": "PRÁTICA EXTENSIONISTA EM COMPUTAÇÃO A",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "EST0023",
+                "nome": "PROBABILIDADE E ESTATÍSTICA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "IFD0175",
+                "nome": "FISICA 2",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "IFD0177",
+                "nome": "FISICA 2 EXPERIMENTAL",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "MAT0026",
+                "nome": "CÁLCULO 2",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "3": [
+            {
+                "codigo": "CIC0197",
+                "nome": "TECNICAS DE PROGRAMAÇÃO 1",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ENE0039",
+                "nome": "SISTEMAS DIGITAIS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ENE0040",
+                "nome": "LABORATÓRIO DE SISTEMAS DIGITAIS",
+                "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 30,
+                    "aula_h": 30,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ENE0066",
+                "nome": "INTRODUÇÃO AOS CIRCUITOS ELÉTRICOS",
+                "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 30,
+                    "aula_h": 30,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ENE0067",
+                "nome": "SINAIS E SISTEMAS EM TEMPO CONTÍNUO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "MAT0027",
+                "nome": "CÁLCULO 3",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "4": [
+            {
+                "codigo": "CIC0198",
+                "nome": "TECNICAS DE PROGRAMAÇÃO 2",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ENE0056",
+                "nome": "SISTEMAS MICROPROCESSADOS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ENE0177",
+                "nome": "ELETROMAGNETISMO 1",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ENE0282",
+                "nome": "LABORATÓRIO DE CIRCUITOS ELÉTRICOS",
+                "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 30,
+                    "aula_h": 30,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ENE0304",
+                "nome": "CIRCUITOS ELÉTRICOS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "MAT0053",
+                "nome": "CALCULO NUMERICO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "5": [
+            {
+                "codigo": "CIC0093",
+                "nome": "LINGUAGENS DE PROGRAMACAO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "CIC0235",
+                "nome": "TELEINFORMÁTICA E REDES 1",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "CIC0289",
+                "nome": "ATIVIDADES EXTENSIONISTAS 1",
+                "carga_horaria_detalhada": "60h 60h Orientação INTEGRADORA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 0,
+                    "orientacao_h": 60
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ENE0045",
+                "nome": "ELETRÔNICA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ENE0046",
+                "nome": "LABORATÓRIO DE ELETRÔNICA",
+                "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 30,
+                    "aula_h": 30,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ENE0068",
+                "nome": "SINAIS E SISTEMAS EM TEMPO DISCRETO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "6": [
+            {
+                "codigo": "CIC0104",
+                "nome": "SOFTWARE BASICO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "CIC0105",
+                "nome": "ENGENHARIA DE SOFTWARE",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "CIC0189",
+                "nome": "PROJETO E ANÁLISE DE ALGORITMOS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "CIC0236",
+                "nome": "TELEINFORMÁTICA E REDES 2",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "CIC0300",
+                "nome": "PROJETO INTEGRADOR DE COMPUTAÇÃO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "7": [
+            {
+                "codigo": "CIC0108",
+                "nome": "SISTEMAS OPERACIONAIS",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "ENE0438",
+                "nome": "PROJETO INTEGRADOR DE TECNOLOGIAS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ]
+    },
+    "optativas": [
+        {
+            "codigo": "CEM0097",
+            "nome": "DIREITOS HUMANOS E CIDADANIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0002",
+            "nome": "FUNDAMENTOS TEÓRICOS DA COMPUTAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0087",
+            "nome": "TOPICOS AVANCADOS EM COMPUTADORES",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0095",
+            "nome": "TEORIA DA COMPUTACAO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0097",
+            "nome": "BANCOS DE DADOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0101",
+            "nome": "SISTEMAS DE INFORMACAO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0111",
+            "nome": "PRINCIPIOS DE COMPUTACAO GRAFICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0121",
+            "nome": "ARQUITETURAS AVANCADAS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0130",
+            "nome": "INTRODUÇÃO AOS SISTEMAS EMBARCADOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0133",
+            "nome": "PROGRAMACAO FUNCIONAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0134",
+            "nome": "PROGRAMACAO EM LOGICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0135",
+            "nome": "INTRODUCAO A INTELIGENCIA ARTIFICIAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0142",
+            "nome": "INFORMATICA E SOCIEDADE",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0158",
+            "nome": "INFORMATICA APLICADA A EDUCACAO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0161",
+            "nome": "AUTÔMATOS E COMPUTABILIDADE",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0169",
+            "nome": "PROGRAMAÇÃO COMPETITIVA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0182",
+            "nome": "LÓGICA COMPUTACIONAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0183",
+            "nome": "LÓGICA COMPUTACIONAL 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0186",
+            "nome": "SISTEMAS DIGITAIS INTEGRADOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0187",
+            "nome": "QUALIDADE DE SOFTWARE",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0194",
+            "nome": "INTERAÇÃO HUMANO COMPUTADOR",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0195",
+            "nome": "PRINCÍPIOS DE VISÃO COMPUTACIONAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0196",
+            "nome": "PROCESSAMENTO DE SINAIS MULTIMÍDIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0199",
+            "nome": "TEORIA E APLICAÇÃO DE GRAFOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0200",
+            "nome": "METODOLOGIA CIENTÍFICA",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0201",
+            "nome": "SEGURANÇA COMPUTACIONAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0203",
+            "nome": "COMPUTAÇÃO EXPERIMENTAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0204",
+            "nome": "COMPILADORES",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0226",
+            "nome": "DESENVOLVIMENTO DE APLICATIVOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0248",
+            "nome": "SISTEMAS DE TEMPO REAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0259",
+            "nome": "ESTUDOS EM CODIFICAÇÃO E CRIPTOGRAFIA",
+            "carga_horaria_detalhada": "60h 60h Orientação INTEGRADORA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 0,
+                "orientacao_h": 60
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0260",
+            "nome": "ESTUDOS EM COMPUTAÇÃO MULTIMÍDIA",
+            "carga_horaria_detalhada": "60h 60h Orientação INTEGRADORA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 0,
+                "orientacao_h": 60
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0261",
+            "nome": "ESTUDOS EM INTELIGÊNCIA ARTIFICIAL",
+            "carga_horaria_detalhada": "60h 60h Orientação INTEGRADORA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 0,
+                "orientacao_h": 60
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0262",
+            "nome": "ESTUDOS EM SISTEMAS DE COMPUTAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Orientação INTEGRADORA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 0,
+                "orientacao_h": 60
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0263",
+            "nome": "ESTUDOS EM SISTEMAS DE INFORMAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Orientação INTEGRADORA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 0,
+                "orientacao_h": 60
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0264",
+            "nome": "PRÁTICAS EM COMPUTAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Orientação INTEGRADORA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 0,
+                "orientacao_h": 60
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0269",
+            "nome": "PROCESSAMENTO DE LINGUAGEM NATURAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0288",
+            "nome": "INTELIGÊNCIA ARTIFICIAL GENERATIVA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0352",
+            "nome": "VISUALIZAÇÃO DE DADOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ECL0014",
+            "nome": "CIENCIAS DO AMBIENTE",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ECO0019",
+            "nome": "INTRODUÇÃO À ECONOMIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENC0035",
+            "nome": "INTRODUÇÃO À MECÂNICA DOS SÓLIDOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0011",
+            "nome": "LABORATÓRIO DE REDES",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0015",
+            "nome": "FUNDAMENTOS DE REDES 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0019",
+            "nome": "TÓPICOS ESPECIAIS EM MICROELETRÔNICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0021",
+            "nome": "TÓPICOS EM REDES DE COMUNICAÇÃO 3",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0049",
+            "nome": "MATERIAIS ELÉTRICOS E MAGNÉTICOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0053",
+            "nome": "ELETROMAGNETISMO 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0054",
+            "nome": "LABORATÓRIO DE ELETROMAGNETISMO 2",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0059",
+            "nome": "ELETRÔNICA 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0060",
+            "nome": "LABORATÓRIO DE ELETRÔNICA 2",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0076",
+            "nome": "FUNDAMENTOS DE COMPRESSÃO DE SINAIS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0077",
+            "nome": "CONTROLE DE SISTEMAS DINÂMICOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0079",
+            "nome": "CONTROLE NO ESPAÇO DE ESTADOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0081",
+            "nome": "COMUNICAÇÕES VIA SATÉLITE",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0082",
+            "nome": "NOÇÕES DE INTELIGÊNCIA ARTIFICIAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0088",
+            "nome": "SISTEMAS DE INFORMAÇÃO DISTRIBUÍDOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0089",
+            "nome": "CABEAMENTO ESTRUTURADO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0154",
+            "nome": "INTELIGÊNCIA COMPUTACIONAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0167",
+            "nome": "CONTROLE DIGITAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0199",
+            "nome": "CIRCUITOS DE RADIOFREQUÊNCIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0202",
+            "nome": "SISTEMAS DE COMUNICACOES 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0209",
+            "nome": "PROCESSAMENTO DIGITAL DE IMAGENS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0211",
+            "nome": "TEORIA DA INFORMACAO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0238",
+            "nome": "FOTÔNICA BÁSICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0260",
+            "nome": "IDENTIFICAÇÃO DE SISTEMAS DINÂMICOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0262",
+            "nome": "COMUNICAÇÕES DIGITAIS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0265",
+            "nome": "TOPICOS ESPECIAIS EM TELECOMUNICACOES",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0270",
+            "nome": "TOPICOS ESPECIAIS EM SISTEMA DIGITAIS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0306",
+            "nome": "PRINCÍPIOS DE COMUNICAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0328",
+            "nome": "TOPICOS EM CONTROLE E AUTOMACAO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0329",
+            "nome": "COMUNICACOES OPTICAS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0332",
+            "nome": "TOPICOS EM ENGENHARIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0344",
+            "nome": "COMUNICAÇÕES MÓVEIS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0345",
+            "nome": "PRINCÍPIOS DE CONTROLE DE ROBÔS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0347",
+            "nome": "TÓPICOS EM REDES DE COMUNICAÇÃO 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0353",
+            "nome": "ANTENAS EM REDES DE COMUNICAÇÕES",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0355",
+            "nome": "INSTRUMENTAÇÃO ELETRÔNICA E SENSORES",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0450",
+            "nome": "PROJETO INTEGRADOR DE FUNDAMENTOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENE0459",
+            "nome": "ENGENHARIA E MUDANÇAS CLIMÁTICAS",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENM0080",
+            "nome": "FENOMENOS DE TRANSPORTE",
+            "carga_horaria_detalhada": "75h 75h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 75,
+                "aula_h": 75,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "EPR0059",
+            "nome": "HIGIENE E SEGURANÇA DO TRABALHO",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "EPR0068",
+            "nome": "ORGANIZAÇÃO INDUSTRIAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FDD0155",
+            "nome": "NOÇÕES DE DIREITO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0069",
+            "nome": "INTRODUÇÃO À FILOSOFIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FTD0007",
+            "nome": "INTRODUCAO A ATIVIDADE EMPRESARIAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FTD0008",
+            "nome": "EMPRESA JUNIOR 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FTD0009",
+            "nome": "EMPRESA JUNIOR 2",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "IQD0125",
+            "nome": "QUIMICA GERAL TEORICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "IQD0126",
+            "nome": "QUIMICA GERAL EXPERIMENTAL",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LET0331",
+            "nome": "INGLÊS INSTRUMENTAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LIP0096",
+            "nome": "LEITURA E PRODUÇÃO DE TEXTOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LIP0174",
+            "nome": "LÍNGUA DE SINAIS BRASILEIRA - BÁSICO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MAT0028",
+            "nome": "VARIAVEL COMPLEXA 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MAT0034",
+            "nome": "ALGEBRA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MAT0038",
+            "nome": "TEORIA DOS NÚMEROS 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "SOL0042",
+            "nome": "INTRODUÇÃO À SOCIOLOGIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0147",
+            "nome": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        }
+    ]
+}

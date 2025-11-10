@@ -1,0 +1,4713 @@
+{
+    "curso_info": {
+        "codigo_matriz": "1376/1",
+        "nome_matriz": "ARTES VISUAIS/VIS - Licenciatura - Presencial - D",
+        "unidade_vinculacao": "DEPTO ARTES VISUAIS (11.01.01.14.03)",
+        "carga_horaria_minima": 3210,
+        "prazos_semestres": {
+            "minimo": 8,
+            "medio": 8,
+            "maximo": 14
+        }
+    },
+    "niveis": {
+        "1": [
+            {
+                "codigo": "PAD0028",
+                "nome": "ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "VIS0063",
+                "nome": "DESENHO 1",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "VIS0113",
+                "nome": "PRÁTICAS DE ENSINO: MATERIAIS EM ARTES",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "VIS0256",
+                "nome": "HISTÓRIA DA ARTE NO BRASIL",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "2": [
+            {
+                "codigo": "PED0060",
+                "nome": "DESENVOLVIMENTO PSICOLÓGICO E ENSINO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "VIS0029",
+                "nome": "DIDÁTICA DAS ARTES VISUAIS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "VIS0030",
+                "nome": "PRÁTICA DE ENSINO - LINGUAGENS DA ARTE",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "VIS0031",
+                "nome": "ESTUDOS DAS VISUALIDADES INDÍGENAS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "3": [
+            {
+                "codigo": "LIP0174",
+                "nome": "LÍNGUA DE SINAIS BRASILEIRA - BÁSICO",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "VIS0033",
+                "nome": "PRÁTICA DE ENSINO - OBJETOS DE APRENDIZAGEM",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "VIS0034",
+                "nome": "ESTUDOS DAS VISUALIDADES AFRO-BRASILEIRA",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "4": [
+            {
+                "codigo": "VIS0035",
+                "nome": "CURRÍCULO E AVALIAÇÃO EM ARTES VISUAIS",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            },
+            {
+                "codigo": "VIS0038",
+                "nome": "IMAGEM, CULTURA E SOCIEDADE",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "5": [
+            {
+                "codigo": "VIS0042",
+                "nome": "PRÁTICA DE ENSINO - ESPAÇOS MUSEAIS",
+                "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 60,
+                    "aula_h": 60,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "7": [
+            {
+                "codigo": "VIS0044",
+                "nome": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ],
+        "8": [
+            {
+                "codigo": "VIS0045",
+                "nome": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+                "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OBRIGATORIO",
+                "carga_horaria": {
+                    "total_h": 90,
+                    "aula_h": 90,
+                    "orientacao_h": 0
+                },
+                "tipo": "DISCIPLINA",
+                "natureza": "OBRIGATORIO"
+            }
+        ]
+    },
+    "optativas": [
+        {
+            "codigo": "CEN0031",
+            "nome": "OFICINA BASICA DE ARTES CENICAS 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0032",
+            "nome": "OFICINA BASICA DE ARTES CENICAS 2",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0036",
+            "nome": "HISTORIA DO TEATRO 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0038",
+            "nome": "CORPO E MOVIMENTO 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0039",
+            "nome": "ENCENACAO 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0042",
+            "nome": "DIRECAO 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0049",
+            "nome": "HISTORIA DO TEATRO 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0052",
+            "nome": "TECNICAS DE DANCA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0053",
+            "nome": "TECNICAS EXPERIMENTAIS DE ARTES CENICAS 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0058",
+            "nome": "LINGUAGEM DRAMATICA NA EDUCACAO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0059",
+            "nome": "SEMINARIO INTERDISCIPLINAR 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0066",
+            "nome": "CORPO E MOVIMENTO 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0067",
+            "nome": "CORPO E MOVIMENTO 3",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0068",
+            "nome": "EXPRESSAO CORPORAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0069",
+            "nome": "EXPRESSAO CORPORAL 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0070",
+            "nome": "EXPRESSAO CORPORAL 3",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0071",
+            "nome": "EXPRESSAO CORPORAL 4",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0072",
+            "nome": "VOZ E DICCAO 1",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0076",
+            "nome": "VOZ E DICCAO 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0078",
+            "nome": "VOZ E MOVIMENTO",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0081",
+            "nome": "METODOLOGIA DA ENCENACAO 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0083",
+            "nome": "METODOLOGIA DA ENCENACAO 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0085",
+            "nome": "TEATRO BRASILEIRO 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0087",
+            "nome": "TEATRO BRASILEIRO 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0088",
+            "nome": "LITERATURA DRAMATICA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0089",
+            "nome": "LITERATURA DRAMATICA 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0090",
+            "nome": "LITERATURA DRAMATICA 3",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0091",
+            "nome": "LITERATURA DRAMATICA 4",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0092",
+            "nome": "INTRODUCAO A ENCENACAO",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0095",
+            "nome": "INTRODUCAO A INTERPRETACAO",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0097",
+            "nome": "INTERPRETACAO 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0101",
+            "nome": "INTRODUCAO A DIRECAO",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0106",
+            "nome": "TEORIA DO TEATRO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0107",
+            "nome": "INTRODUCAO AS TECNICAS TEATRAIS",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0109",
+            "nome": "CRITICA TEATRAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0112",
+            "nome": "INDUMENTARIA 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0113",
+            "nome": "INDUMENTARIA 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0115",
+            "nome": "SONOPLASTIA 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0117",
+            "nome": "SONOPLASTIA 2",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0121",
+            "nome": "ILUMINACAO 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0122",
+            "nome": "ILUMINACAO 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0124",
+            "nome": "MAQUIAGEM",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0126",
+            "nome": "PRODUCAO TEATRAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0133",
+            "nome": "DINAMICA DA VOZ 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0134",
+            "nome": "DINAMICA DA VOZ 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0135",
+            "nome": "FUNDAMENTOS DA EDUCAÇÃO ARTÍSTICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0139",
+            "nome": "TECNICAS DE SUPORTE CENICO 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0140",
+            "nome": "TECNICAS DE SUPORTE CENICO 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0154",
+            "nome": "HISTORIA DO ENSINO DAS ARTES",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0164",
+            "nome": "POÉTICAS TEATRAIS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0165",
+            "nome": "TEORIAS E PROCESSOS CRIATIVOS PARA A CENA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0166",
+            "nome": "TEATRALIDADES BRASILEIRAS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0167",
+            "nome": "A VOZ EM PERFORMANCE",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0168",
+            "nome": "A PALAVRA EM PERFORMANCE",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0171",
+            "nome": "INTERPRETAÇÃO TEATRAL 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0172",
+            "nome": "INTERPRETAÇÃO TEATRAL 2",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0173",
+            "nome": "INTERPRETAÇÃO TEATRAL 3",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0177",
+            "nome": "MOVIMENTO E LINGUAGEM 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0178",
+            "nome": "MOVIMENTO E LINGUAGEM 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CEN0179",
+            "nome": "MOVIMENTO E LINGUAGEM 3",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0007",
+            "nome": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "CIC0088",
+            "nome": "COMPUTACAO BASICA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "COM0129",
+            "nome": "LINGUAGENS DA COMUNICAÇÃO 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DAN0022",
+            "nome": "INTRODUÇÃO À ANTROPOLOGIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DAN0041",
+            "nome": "TEORIA ANTROPOLÓGICA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DAN0043",
+            "nome": "ANTROPOLOGIA DA ARTE",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DAP0008",
+            "nome": "ARGUMENTO E ROTEIRO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DAP0020",
+            "nome": "SOM DO FILME 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DAP0042",
+            "nome": "DOCUMENTÁRIO 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DAP0067",
+            "nome": "HISTORIA DO CINEMA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DAP0076",
+            "nome": "FOTOGRAFIA E ILUMINAÇÃO 1",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DAP0079",
+            "nome": "INTRODUÇÃO A FOTOGRAFIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DAP0096",
+            "nome": "OFICINA BÁSICA DE AUDIOVISUAL",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DAP0103",
+            "nome": "LINGUAGENS CINEMATOGRÁFICA E AUDIOVISUAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DAP0117",
+            "nome": "INTRODUÇÃO A LINGUAGEM SONORA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DAP0118",
+            "nome": "ROTEIRO, PRODUÇÃO E REALIZAÇÃO EM ÁUDIO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0200",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "15h 15h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 15,
+                "aula_h": 15,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0201",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0202",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "45h 45h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 45,
+                "aula_h": 45,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0203",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0205",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0206",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "120h 120h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 120,
+                "aula_h": 120,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0207",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "150h 150h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 150,
+                "aula_h": 150,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0208",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "180h 180h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 180,
+                "aula_h": 180,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0209",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "210h 210h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 210,
+                "aula_h": 210,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0210",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "240h 240h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 240,
+                "aula_h": 240,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0211",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "270h 270h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 270,
+                "aula_h": 270,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0212",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "300h 300h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 300,
+                "aula_h": 300,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0213",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "330h 330h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 330,
+                "aula_h": 330,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0214",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "360h 360h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 360,
+                "aula_h": 360,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0215",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "390h 390h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 390,
+                "aula_h": 390,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0216",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "420h 420h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 420,
+                "aula_h": 420,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0217",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "450h 450h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 450,
+                "aula_h": 450,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0218",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "480h 480h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 480,
+                "aula_h": 480,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEG0219",
+            "nome": "ATIVIDADE COMPLEMENTAR",
+            "carga_horaria_detalhada": "510h 510h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 510,
+                "aula_h": 510,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0196",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "15h 15h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 15,
+                "aula_h": 15,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0197",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0198",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "45h 45h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 45,
+                "aula_h": 45,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0199",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0200",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0201",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "120h 120h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 120,
+                "aula_h": 120,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0202",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "150h 150h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 150,
+                "aula_h": 150,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0203",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "180h 180h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 180,
+                "aula_h": 180,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0204",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "240h 240h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 240,
+                "aula_h": 240,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0205",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "240h 240h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 240,
+                "aula_h": 240,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0206",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "270h 270h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 270,
+                "aula_h": 270,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0207",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "300h 300h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 300,
+                "aula_h": 300,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0208",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "330h 330h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 330,
+                "aula_h": 330,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0209",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "360h 360h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 360,
+                "aula_h": 360,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0210",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "390h 390h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 390,
+                "aula_h": 390,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0211",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "420h 420h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 420,
+                "aula_h": 420,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0212",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "450h 450h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 450,
+                "aula_h": 450,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0213",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "480h 480h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 480,
+                "aula_h": 480,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DEX0214",
+            "nome": "ATIVIDADE DE EXTENSÃO",
+            "carga_horaria_detalhada": "510h 510h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 510,
+                "aula_h": 510,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "DIN0047",
+            "nome": "FOTOGRAFIA E VIDEO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ECL0002",
+            "nome": "ECOLOGIA GERAL",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ECO0019",
+            "nome": "INTRODUÇÃO À ECONOMIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENC0053",
+            "nome": "DESENHO TECNICO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "ENC0054",
+            "nome": "GEOMETRIA DESCRITIVA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FAC0016",
+            "nome": "ESTÉTICA E CULTURA DE MASSA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FAC0017",
+            "nome": "PESQUISA EM COMUNICAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FCI0013",
+            "nome": "INTRODUÇÃO À MUSEOLOGIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FCI0014",
+            "nome": "MUSEOLOGIA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FCI0024",
+            "nome": "HISTORIA DO LIVRO E DAS BIBLIOTECAS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FCI0062",
+            "nome": "INTRODUCAO A ARQUIVOLOGIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FDD0117",
+            "nome": "DIREITO INDUSTRIAL",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FEF0105",
+            "nome": "PRÁTICA DESPORTIVA",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0034",
+            "nome": "HISTÓRIA DA FILOSOFIA ANTIGA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0039",
+            "nome": "HISTÓRIA DA FILOSOFIA MEDIEVAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0044",
+            "nome": "HISTÓRIA DA FILOSOFIA MODERNA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0049",
+            "nome": "HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0056",
+            "nome": "LÓGICA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0059",
+            "nome": "TEORIA DA CIÊNCIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0068",
+            "nome": "ESTÉTICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0069",
+            "nome": "INTRODUÇÃO À FILOSOFIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0105",
+            "nome": "INICIAÇÃO À PRÁTICA FILOSÓFICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0124",
+            "nome": "FILOSOFIA DA ARTE",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0129",
+            "nome": "DIALETICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0134",
+            "nome": "MITO E FILOSOFIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0142",
+            "nome": "TEXTOS FILOSÓFICOS GREGOS 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0149",
+            "nome": "METAFILOSOFIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0158",
+            "nome": "IDEIAS FILOSOFICAS EM FORMA LITERARIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "FIL0166",
+            "nome": "INTRODUÇÃO A PRÁTICA FILOSÓFICA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "HIS0084",
+            "nome": "INTRODUÇÃO AO ESTUDO DA HISTÓRIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "HIS0088",
+            "nome": "HISTÓRIA ANTIGA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "HIS0091",
+            "nome": "HISTÓRIA MEDIEVAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "HIS0093",
+            "nome": "HISTÓRIA MODERNA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "HIS0102",
+            "nome": "HISTÓRIA DO BRASIL 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "HIS0106",
+            "nome": "HISTÓRIA CONTEMPORÂNEA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "HIS0113",
+            "nome": "TEORIA DA HISTÓRIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "HIS0115",
+            "nome": "METODOLOGIA DA HISTÓRIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "HIS0140",
+            "nome": "CULTURA BRASILEIRA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "IFD0210",
+            "nome": "FISICA GERAL 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "IQD0051",
+            "nome": "QUÍMICA GERAL",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "IQD0132",
+            "nome": "INTRODUCAO AO ESTUDO DA QUIMICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "JOR0045",
+            "nome": "TEORIAS DA COMUNICAÇÃO 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "JOR0078",
+            "nome": "INTRODUÇÃO A COMUNICAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LET0101",
+            "nome": "LÍNGUA ALEMÃ 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LET0106",
+            "nome": "LINGUA JAPONESA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LET0118",
+            "nome": "LÍNGUA ESPANHOLA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LET0331",
+            "nome": "INGLÊS INSTRUMENTAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LIP0045",
+            "nome": "INTRODUÇÃO À LINGUÍSTICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LIP0096",
+            "nome": "LEITURA E PRODUÇÃO DE TEXTOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "LIP0153",
+            "nome": "PORTUGUÊS INSTRUMENTAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MAT0038",
+            "nome": "TEORIA DOS NÚMEROS 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MTC0006",
+            "nome": "FUNDAMENTOS DA ARTE NA EDUCACAO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MTC0012",
+            "nome": "DIDÁTICA FUNDAMENTAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MTC0013",
+            "nome": "DIDÁTICA 2",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MTC0017",
+            "nome": "METODOLOGIA DO ENSINO DE 1 GRAU 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MTC0018",
+            "nome": "METODOLOGIA DO ENSINO DE 1 GRAU 2",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MTC0021",
+            "nome": "CURRÍCULO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MTC0022",
+            "nome": "CURRICULOS E PROGRAMAS 2",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MTC0027",
+            "nome": "TECNICAS AUDIOVISUAIS DE EDUCACAO",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MTC0029",
+            "nome": "ENSINO SUPLETIVO 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MTC0030",
+            "nome": "ENSINO SUPLETIVO 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MTC0035",
+            "nome": "AVALIAÇÃO ESCOLAR",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MTC0143",
+            "nome": "DIDÁTICA FUNDAMENTAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0089",
+            "nome": "OFICINA BÁSICA DE MÚSICA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0093",
+            "nome": "INTRODUCAO A MUSICA 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0096",
+            "nome": "INTRODUÇÃO À MÚSICA 2",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0102",
+            "nome": "HARMONIA SUPERIOR 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0104",
+            "nome": "HARMONIA SUPERIOR 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0106",
+            "nome": "CONTRAPONTO E FUGA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0139",
+            "nome": "CANTO CORAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0142",
+            "nome": "CANTO CORAL 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0158",
+            "nome": "COMPOSIÇÃO MUSICAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0206",
+            "nome": "INTRODUÇÃO À MUSICOLOGIA",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0218",
+            "nome": "CANTO 1",
+            "carga_horaria_detalhada": "30h 30h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 30,
+                "aula_h": 30,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0236",
+            "nome": "MÚSICA E SOCIEDADE 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0244",
+            "nome": "EVOLUÇÃO DA MÚSICA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0246",
+            "nome": "EVOLUCAO DA MUSICA 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0248",
+            "nome": "ANÁLISE MUSICAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0250",
+            "nome": "PERCEPCAO MUSICAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0262",
+            "nome": "ESTÁGIO SUPERVISIONADO EM MÚSICA 1",
+            "carga_horaria_detalhada": "120h 120h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 120,
+                "aula_h": 120,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0263",
+            "nome": "MUSICA POPULAR BRASILEIRA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0633",
+            "nome": "ANALISE MUSICAL 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0643",
+            "nome": "HARMONIA SUPERIOR 3",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0738",
+            "nome": "ESTÁGIO SUPERVISIONADO EM MÚSICA 2",
+            "carga_horaria_detalhada": "120h 120h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 120,
+                "aula_h": 120,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0751",
+            "nome": "PRÁTICA DE ENSINO E APRENDIZAGEM MUSICAL 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0753",
+            "nome": "PRÁTICA DE ENSINO E APRENDIZAGEM MUSICAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0758",
+            "nome": "PRÁTICA DE ENSINO E APRENDIZAGEM MUSICAL 3",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "MUS0788",
+            "nome": "PROJETO DE ESTÁGIO E PRÁTICA DOCENTE",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PAD0017",
+            "nome": "LEGISLACAO DO ENSINO 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PAD0018",
+            "nome": "LEGISLACAO DO ENSINO 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PAD0019",
+            "nome": "HIGIENE ESCOLAR",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PAD0022",
+            "nome": "PLANEJAMENTO EDUCACIONAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PAD0031",
+            "nome": "POLITICAS PÚBLICAS DE EDUCAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PCL0015",
+            "nome": "PSICOLOGIA DA PERSONALIDADE 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PED0025",
+            "nome": "DESENVOLVIMENTO NO CURSO DE VIDA: INFÂNCIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PED0032",
+            "nome": "PSICOLOGIA DA CRIATIVIDADE",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "POL0011",
+            "nome": "INTRODUÇÃO À CIÊNCIA POLÍTICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PPB0014",
+            "nome": "INTRODUÇÃO À PSICOLOGIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PPB0017",
+            "nome": "PSICOLOGIA DA APRENDIZAGEM 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PPB0054",
+            "nome": "PERCEPCAO",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PPB0067",
+            "nome": "APRENDIZAGEM NO ENSINO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PRO0023",
+            "nome": "DESENHO ARQUITETONICO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PRO0025",
+            "nome": "DESENHO E PLASTICA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PRO0026",
+            "nome": "DESENHO E PLASTICA 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PST0011",
+            "nome": "PSICOLOGIA SOCIAL 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "PST0034",
+            "nome": "ERGONOMIA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "SOL0042",
+            "nome": "INTRODUÇÃO À SOCIOLOGIA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "SOL0044",
+            "nome": "TEORIA SOCIOLÓGICA 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "SOL0045",
+            "nome": "TEORIA SOCIOLÓGICA 2",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TAU0002",
+            "nome": "INTRODUCAO A ARQUITETURA E URBANISMO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0009",
+            "nome": "INTRODUCAO A EDUCACAO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0011",
+            "nome": "PSICOLOGIA DA EDUCAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0012",
+            "nome": "PSICOLOGIA DA EDUCACAO 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0013",
+            "nome": "SOCIOLOGIA DA EDUCAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0014",
+            "nome": "SOCIOLOGIA DA EDUCACAO 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0015",
+            "nome": "HISTORIA DA EDUCACAO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0016",
+            "nome": "HISTORIA DA EDUCACAO 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0019",
+            "nome": "POLÍTICAS DE EDUCAÇÃO COMPARADA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0021",
+            "nome": "FILOSOFIA DA EDUCAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0022",
+            "nome": "FILOSOFIA DA EDUCACAO 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0024",
+            "nome": "ECONOMIA DA EDUCAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0038",
+            "nome": "INTRODUCAO A EDUCACAO ESPECIAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0065",
+            "nome": "DINÂMICA PSICOSSOCIAL DA EDUCAÇÃO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0069",
+            "nome": "ORIENTACAO VOCACIONAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEF0118",
+            "nome": "PERSPECTIVAS DO DESENVOLVIMENTO HUMANO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEL0014",
+            "nome": "INTRODUCAO A TEORIA DA LITERATURA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "TEL0021",
+            "nome": "LITERATURA BRASILEIRA - ROMANTISMO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0001",
+            "nome": "TEORIA, CRÍTICA E HISTÓRIA DA ARTE 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0005",
+            "nome": "TEORIA, CRÍTICA E HISTÓRIA DA ARTE 3",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0056",
+            "nome": "ESTUDOS VISUAIS E EDUCAÇÃO - NARRATIVAS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0057",
+            "nome": "ESTUDOS VISUAIS E EDUCAÇÃO - EXPERIMENTOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0061",
+            "nome": "HISTORIA DA ARTE 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0065",
+            "nome": "DESENHO 2",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0067",
+            "nome": "ESCULTURA 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0072",
+            "nome": "MORFOLOGIA GEOMETRICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0074",
+            "nome": "DESENHO GEOMETRICO",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0075",
+            "nome": "DESENHO PERSPECTIVO",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0080",
+            "nome": "INTRODUCAO AS TECNICAS ARTESANAIS",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0085",
+            "nome": "OFICINA BASICA DE ARTES PLASTICAS 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0088",
+            "nome": "OFICINA DE FOTOGRAFIA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0094",
+            "nome": "OFICINA DE FOTOGRAFIA 3",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0104",
+            "nome": "ANALISE DO FILME 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0114",
+            "nome": "HISTORIA DA ARTE 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0116",
+            "nome": "MODELAGEM DO OBJETO 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0119",
+            "nome": "TECNICAS EXPERIMENTAIS DE ARTE 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0124",
+            "nome": "TECNICAS DE GRAVURA 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0125",
+            "nome": "TECNICAS DE GRAVURA 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0126",
+            "nome": "TECNICAS DE GRAVURA 3",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0127",
+            "nome": "FUNDAMENTOS DE LINGUAGEM",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0130",
+            "nome": "TECNICAS DE REPRESENTACAO GRAFICA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0137",
+            "nome": "OFICINA BASICA DE CINEMA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0140",
+            "nome": "ANATOMIA ARTÍSTICA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0141",
+            "nome": "HISTORIA DA ARTE ANTIGA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0143",
+            "nome": "ATELIE DE ESCULTURA 1",
+            "carga_horaria_detalhada": "225h 225h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 225,
+                "aula_h": 225,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0145",
+            "nome": "ATELIE DE ESCULTURA 2",
+            "carga_horaria_detalhada": "225h 225h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 225,
+                "aula_h": 225,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0163",
+            "nome": "MATERIAIS EM ARTE 2",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0165",
+            "nome": "ATELIE DE PINTURA 1",
+            "carga_horaria_detalhada": "225h 225h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 225,
+                "aula_h": 225,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0167",
+            "nome": "ATELIE DE PINTURA 2",
+            "carga_horaria_detalhada": "225h 225h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 225,
+                "aula_h": 225,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0173",
+            "nome": "ATELIE DE GRAVURA 1",
+            "carga_horaria_detalhada": "225h 225h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 225,
+                "aula_h": 225,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0175",
+            "nome": "ATELIE DE GRAVURA 2",
+            "carga_horaria_detalhada": "225h 225h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 225,
+                "aula_h": 225,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0180",
+            "nome": "ATELIE DE CERAMICA 1",
+            "carga_horaria_detalhada": "225h 225h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 225,
+                "aula_h": 225,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0181",
+            "nome": "ATELIE DE CERAMICA 2",
+            "carga_horaria_detalhada": "225h 225h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 225,
+                "aula_h": 225,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0185",
+            "nome": "ARTE ELETRONICA 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0187",
+            "nome": "PINTURA 1",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0189",
+            "nome": "HISTORIA DA ARTE 3",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0190",
+            "nome": "HISTORIA DA ARTE 4",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0192",
+            "nome": "ATELIE DE DESENHO 1",
+            "carga_horaria_detalhada": "225h 225h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 225,
+                "aula_h": 225,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0194",
+            "nome": "ATELIE DE DESENHO 2",
+            "carga_horaria_detalhada": "225h 225h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 225,
+                "aula_h": 225,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0212",
+            "nome": "DESENHO 3",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0217",
+            "nome": "ATELIE 1",
+            "carga_horaria_detalhada": "120h 120h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 120,
+                "aula_h": 120,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0219",
+            "nome": "ATELIE 2",
+            "carga_horaria_detalhada": "120h 120h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 120,
+                "aula_h": 120,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0220",
+            "nome": "PROJETO INTERDISCIPLINAR",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0230",
+            "nome": "INTERVENCAO/PERFORMANCE/INSTALACAO",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0239",
+            "nome": "SERIGRAFIA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0240",
+            "nome": "PINTURA 2",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0241",
+            "nome": "ESCULTURA 2",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0242",
+            "nome": "VIDEO-ARTE",
+            "carga_horaria_detalhada": "120h 120h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 120,
+                "aula_h": 120,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0244",
+            "nome": "ANIMAÇÃO",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0245",
+            "nome": "DESENHO 4",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0246",
+            "nome": "ARTE ELETRONICA 2",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0247",
+            "nome": "XILOGRAVURA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0248",
+            "nome": "LITOGRAFIA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0249",
+            "nome": "CALCOGRAVURA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0254",
+            "nome": "HISTORIA DA ARTE MODERNA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0255",
+            "nome": "HISTORIA DA ARTE CONTEMPORANEA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0257",
+            "nome": "TEORIA E HISTORIA DA ARTE",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0268",
+            "nome": "PRODUÇÃO CULTURAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0280",
+            "nome": "IMAGEM INTERATIVA",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0294",
+            "nome": "TEORIA, CRÍTICA E HISTÓRIA DA ARTE 1",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0188",
+            "nome": "INTRODUCAO A GRAVURA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0053",
+            "nome": "ESTUDOS VISUAIS E EDUCAÇÃO - FUNDAMENTOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0253",
+            "nome": "HISTORIA DA ARTE MEDIEVAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0054",
+            "nome": "ESTUDOS VISUAIS E EDUCAÇÃO - LINGUAGENS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO"
+        },
+        {
+            "codigo": "VIS0188",
+            "nome": "INTRODUCAO A GRAVURA",
+            "carga_horaria_detalhada": "90h 90h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "3"
+        },
+        {
+            "codigo": "VIS0053",
+            "nome": "ESTUDOS VISUAIS E EDUCAÇÃO - FUNDAMENTOS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "5"
+        },
+        {
+            "codigo": "VIS0253",
+            "nome": "HISTORIA DA ARTE MEDIEVAL",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "5"
+        },
+        {
+            "codigo": "VIS0054",
+            "nome": "ESTUDOS VISUAIS E EDUCAÇÃO - LINGUAGENS",
+            "carga_horaria_detalhada": "60h 60h Aula DISCIPLINA OPTATIVO",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "6"
+        },
+        {
+            "codigo": "VIS0104",
+            "nome": "- ANALISE DO FILME 1",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0127",
+            "nome": "- FUNDAMENTOS DE LINGUAGEM",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0061",
+            "nome": "- HISTORIA DA ARTE 1",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0114",
+            "nome": "- HISTORIA DA ARTE 2",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0189",
+            "nome": "- HISTORIA DA ARTE 3",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0190",
+            "nome": "- HISTORIA DA ARTE 4",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0141",
+            "nome": "- HISTORIA DA ARTE ANTIGA",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0255",
+            "nome": "- HISTORIA DA ARTE CONTEMPORANEA",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0253",
+            "nome": "- HISTORIA DA ARTE MEDIEVAL",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0254",
+            "nome": "- HISTORIA DA ARTE MODERNA",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "FIL0069",
+            "nome": "- INTRODUÇÃO À FILOSOFIA",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0231",
+            "nome": "- SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 1",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0267",
+            "nome": "- SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 10",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0271",
+            "nome": "- SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 11",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0273",
+            "nome": "- SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 12",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0275",
+            "nome": "- SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 13",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0277",
+            "nome": "- SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 14",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0279",
+            "nome": "- SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 15",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0233",
+            "nome": "- SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 2",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0236",
+            "nome": "- SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 3",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0238",
+            "nome": "- SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 4",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0251",
+            "nome": "- SEMINÁRIO EM TEORIA, CRÍTICA E HISTÓRIA DA ARTE 5",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0259",
+            "nome": "- SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 6",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0261",
+            "nome": "- SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 7",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0263",
+            "nome": "- SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 8",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0265",
+            "nome": "- SEMINARIO EM TEORIA,CRITICA E HISTORIA DA ARTE 9",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0257",
+            "nome": "- TEORIA E HISTORIA DA ARTE",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0057",
+            "nome": "- ESTUDOS VISUAIS E EDUCAÇÃO - EXPERIMENTOS",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0053",
+            "nome": "- ESTUDOS VISUAIS E EDUCAÇÃO - FUNDAMENTOS",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0054",
+            "nome": "- ESTUDOS VISUAIS E EDUCAÇÃO - LINGUAGENS",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0056",
+            "nome": "- ESTUDOS VISUAIS E EDUCAÇÃO - NARRATIVAS",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0055",
+            "nome": "- ESTUDOS VISUAIS E EDUCAÇÃO - TÓPICOS ESPECIAIS",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0058",
+            "nome": "- HISTÓRIA E TEORIA DO ENSINO DAS ARTES VISUAIS 2",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0140",
+            "nome": "- ANATOMIA ARTÍSTICA",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0244",
+            "nome": "- ANIMAÇÃO",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0185",
+            "nome": "- ARTE ELETRONICA 1",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0246",
+            "nome": "- ARTE ELETRONICA 2",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0249",
+            "nome": "- CALCOGRAVURA",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0065",
+            "nome": "- DESENHO 2",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0212",
+            "nome": "- DESENHO 3",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0245",
+            "nome": "- DESENHO 4",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0241",
+            "nome": "- ESCULTURA 2",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "DIN0047",
+            "nome": "- FOTOGRAFIA E VIDEO",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0230",
+            "nome": "- INTERVENCAO/PERFORMANCE/INSTALACAO",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0188",
+            "nome": "- INTRODUCAO A GRAVURA",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0248",
+            "nome": "- LITOGRAFIA",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0163",
+            "nome": "- MATERIAIS EM ARTE 2",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0088",
+            "nome": "- OFICINA DE FOTOGRAFIA 1",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0094",
+            "nome": "- OFICINA DE FOTOGRAFIA 3",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0187",
+            "nome": "- PINTURA 1",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0240",
+            "nome": "- PINTURA 2",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0239",
+            "nome": "- SERIGRAFIA",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0124",
+            "nome": "- TECNICAS DE GRAVURA 1",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0125",
+            "nome": "- TECNICAS DE GRAVURA 2",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0126",
+            "nome": "- TECNICAS DE GRAVURA 3",
+            "carga_horaria_detalhada": "60h",
+            "carga_horaria": {
+                "total_h": 60,
+                "aula_h": 60,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0242",
+            "nome": "- VIDEO-ARTE",
+            "carga_horaria_detalhada": "120h",
+            "carga_horaria": {
+                "total_h": 120,
+                "aula_h": 120,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0247",
+            "nome": "- XILOGRAVURA",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        },
+        {
+            "codigo": "VIS0067",
+            "nome": "- ESCULTURA 1",
+            "carga_horaria_detalhada": "90h",
+            "carga_horaria": {
+                "total_h": 90,
+                "aula_h": 90,
+                "orientacao_h": 0
+            },
+            "tipo": "DISCIPLINA",
+            "natureza": "OPTATIVO",
+            "nivel_sugerido_origem": "8"
+        }
+    ]
+}
