@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Script para gerar recomendações de disciplinas com base no histórico
 acadêmico (JSON v16) e no fluxograma (JSON v1) de um aluno.
@@ -18,9 +17,7 @@ import json
 import sys
 from collections import defaultdict
 
-# Situações que contam como "aprovado"
 STATUS_APROVADO = {"MM", "MS", "SS", "APR", "DISP"}
-# Situações que contam como "atualmente matriculado"
 STATUS_MATRICULADO = {"MATR", "-"}
 
 def carregar_dados(caminho_arquivo):
@@ -78,9 +75,8 @@ def processar_historico(historico_data):
     aprovadas = set()
     matriculadas = set()
     
-    # USA A ESTRUTURA CORRETA DO JSON v16
     for componente in historico_data.get('componentes_cursados', []):
-        codigo_disciplina = componente.get('codigo') # CORRIGIDO
+        codigo_disciplina = componente.get('codigo')
         situacao = componente.get('situacao', '')
         
         if not codigo_disciplina:
@@ -104,7 +100,7 @@ def gerar_recomendacoes(historico_data, mapa_fluxo, aprovadas, matriculadas):
 
     disciplinas_pendentes = historico_data.get('componentes_pendentes', [])
 
-    # 1. Processar a lista de PENDENTES do histórico
+    # Processar a lista de PENDENTES do histórico
     for item in disciplinas_pendentes:
         codigo_pendente = item.get('codigo')
 
@@ -136,10 +132,10 @@ def gerar_recomendacoes(historico_data, mapa_fluxo, aprovadas, matriculadas):
                 "motivo": "Código não encontrado no JSON do fluxograma fornecido."
             })
             
-    # 2. Priorizar (como solicitado)
+    # Priorizar
     recomendadas_pendentes.sort(key=lambda d: d.get('nivel_sugerido', 99))
     
-    # 3. Estratégia Adicional: Sugerir optativas do fluxo (que não estão pendentes)
+    # Estratégia Adicional: Sugerir optativas do fluxo (que não estão pendentes)
     for codigo, disciplina in mapa_fluxo.items():
         if disciplina['natureza'] == 'OPTATIVO':
             if codigo not in aprovadas and codigo not in matriculadas:
@@ -170,7 +166,6 @@ def imprimir_resultados(recomendadas, pendentes_desconhecidas, optativas_sugerid
     print("Disciplinas optativas do seu curso que você ainda não cursou (ou não está cursando):\n")
     
     if optativas_sugeridas:
-         # Mostrar apenas as 10 primeiras para não poluir o terminal
         for disciplina in optativas_sugeridas[:10]:
             ch = disciplina.get('carga_horaria', {}).get('total_h', 'N/A')
             print(f"  {disciplina['codigo']} - {disciplina['nome']} ({ch}h)")
@@ -208,7 +203,6 @@ def main():
     print(f"Carregando fluxograma de: {arquivo_fluxo_path}")
     fluxo_data = carregar_dados(arquivo_fluxo_path)
 
-    # Extrai o nome do aluno para o relatório
     aluno_nome = historico_data.get('dados_pessoais', {}).get('nome', 'Aluno(a)')
 
     print("Construindo mapa do fluxograma...")
