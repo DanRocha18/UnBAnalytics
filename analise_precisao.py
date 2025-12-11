@@ -50,19 +50,20 @@ def calcular_metricas_detalhadas(lista_gabarito: List[Dict], lista_predito: List
 
 def imprimir_diff(metricas: Dict, nome_modelo: str):
     """Imprime as diferenças encontradas de forma legível."""
-    if metricas['f1_score'] == 1.0:
+    # Se for perfeito ou tiver erro de execução, não imprime diff
+    if metricas.get('f1_score') == 1.0 or 'erro' in metricas:
         return
 
-    print(f"\n    {Cores.AMARELO}>> Diferenças encontradas no {nome_modelo}:{Cores.RESET}")
+    print(f"    {Cores.AMARELO}>> Diferenças no {nome_modelo}:{Cores.RESET}")
     
     if metricas['fp'] > 0:
-        print(f"    {Cores.VERMELHO}[+] Alucinações/Erros (Falsos Positivos): {metricas['fp']} itens{Cores.RESET}")
+        print(f"    {Cores.VERMELHO}[+] Alucinações (FP): {metricas['fp']} itens{Cores.RESET}")
         for item in metricas['diff_fp'][:3]:
             print(f"       -> {item}")
         if metricas['fp'] > 3: print("       ... (mais itens)")
 
     if metricas['fn'] > 0:
-        print(f"    {Cores.AMARELO}[-] Perdas (Falsos Negativos): {metricas['fn']} itens{Cores.RESET}")
+        print(f"    {Cores.AMARELO}[-] Perdas (FN): {metricas['fn']} itens{Cores.RESET}")
         for item in metricas['diff_fn'][:3]:
             print(f"       -> {item}")
         if metricas['fn'] > 3: print("       ... (mais itens)")
@@ -97,9 +98,9 @@ def analisar_comparativo(
     dir_llm: str,
     extractor: Callable
 ):
-    print(f"\n{Cores.NEGRITO}{'='*60}")
+    print(f"\n{Cores.NEGRITO}{'='*80}")
     print(f" ANÁLISE COMPARATIVA: {tipo.upper()}")
-    print(f"{'='*60}{Cores.RESET}")
+    print(f"{'='*80}{Cores.RESET}")
 
     arquivos = glob.glob(os.path.join(dir_base, dir_gab, "*_gab.json"))
     
@@ -111,6 +112,7 @@ def analisar_comparativo(
         base_id = filename.replace('_gab.json', '')
         
         path_py = os.path.join(dir_base, dir_py, f"{base_id}.json")
+        # Ajuste: Fluxos tem sufixo _extraido.json na pasta LLM
         sufixo_llm = "_extraido.json" if "fluxo" in tipo.lower() else ".json"
         path_llm = os.path.join(dir_base, dir_llm, f"{base_id}{sufixo_llm}")
 
@@ -118,13 +120,15 @@ def analisar_comparativo(
         dados_py = extractor(carregar_json(path_py))
         dados_llm = extractor(carregar_json(path_llm))
 
-        if not dados_gab: continue
+        if not dados_gab: 
+            print(f"[AVISO] Gabarito vazio ou inválido: {base_id}")
+            continue
 
         # Calcular
         m_py = calcular_metricas_detalhadas(dados_gab, dados_py)
         m_llm = calcular_metricas_detalhadas(dados_gab, dados_llm)
 
-        # Acumular Médias
+        # Acumular Médias (apenas se não houve erro crítico)
         if 'erro' not in m_py:
             acumulado_py['p'].append(m_py['precision'])
             acumulado_py['r'].append(m_py['recall'])
@@ -135,13 +139,23 @@ def analisar_comparativo(
             acumulado_llm['r'].append(m_llm['recall'])
             acumulado_llm['f1'].append(m_llm['f1_score'])
 
-        # Exibir linha individual apenas se houver imperfeição
-        if m_py.get('f1_score', 0) < 1.0 or m_llm.get('f1_score', 0) < 1.0:
-            print(f"\nArquivo: {Cores.NEGRITO}{base_id}{Cores.RESET}")
-            print(f"  PYTHON | F1: {m_py.get('f1_score',0):.3f} | P: {m_py.get('precision',0):.3f} | R: {m_py.get('recall',0):.3f}")
+        # --- IMPRESSÃO DOS RESULTADOS POR ARQUIVO ---
+        print(f"\nArquivo: {Cores.NEGRITO}{base_id}{Cores.RESET}")
+        
+        # Python
+        if 'erro' in m_py:
+            print(f"  PYTHON | Erro: {m_py['erro']}")
+        else:
+            print(f"  PYTHON | TP:{m_py['tp']:02d} FP:{m_py['fp']:02d} FN:{m_py['fn']:02d} | "
+                  f"F1: {m_py['f1_score']:.3f} P: {m_py['precision']:.3f} R: {m_py['recall']:.3f}")
             imprimir_diff(m_py, "PYTHON")
-            
-            print(f"  LLM    | F1: {m_llm.get('f1_score',0):.3f} | P: {m_llm.get('precision',0):.3f} | R: {m_llm.get('recall',0):.3f}")
+
+        # LLM
+        if 'erro' in m_llm:
+             print(f"  LLM    | Erro: {m_llm['erro']}")
+        else:
+            print(f"  LLM    | TP:{m_llm['tp']:02d} FP:{m_llm['fp']:02d} FN:{m_llm['fn']:02d} | "
+                  f"F1: {m_llm['f1_score']:.3f} P: {m_llm['precision']:.3f} R: {m_llm['recall']:.3f}")
             imprimir_diff(m_llm, "LLM")
 
     # Médias Finais
